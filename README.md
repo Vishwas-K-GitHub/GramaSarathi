@@ -1,2 +1,2 @@
 # GramaSarathi
-Smart Scheme Awareness Portal | HTML, CSS, Python, Flask, JSON – Designed and developed a multilingual web portal for discovering government schemes.
+A multilingual web portal built with HTML, CSS, Python (Flask), and JSON to help users discover government schemes based on eligibility—supports Kannada, Hindi, and English, with scalable design for easy updates and expansion.
