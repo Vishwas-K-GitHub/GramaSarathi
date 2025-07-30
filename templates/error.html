@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="{{ language }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GramaSaarthi - {{ translations['error_title'] }}</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-image: linear-gradient(to bottom right, #e0f7fa, #e8f5e9);
+      min-height: 100vh;
+      font-family: 'Arial', sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 2rem;
+    }
+    .error-container {
+      max-width: 600px;
+      width: 90%;
+      padding: 2.5rem;
+      background: white;
+      border-radius: 1rem;
+      box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+      border: 1px solid #ef4444; /* Red border for error */
+      text-align: center;
+    }
+    h2 {
+      font-size: 2.5rem;
+      font-weight: 700;
+      color: #dc2626; /* Red for error heading */
+      margin-bottom: 1.5rem;
+    }
+    p {
+      font-size: 1.15rem;
+      color: #4a5568;
+      margin-bottom: 2rem;
+      line-height: 1.6;
+    }
+    .back-button {
+      display: inline-block;
+      padding: 0.75rem 1.5rem;
+      background-color: #2b7a3d; /* Green button */
+      color: white;
+      border-radius: 0.5rem;
+      text-decoration: none;
+      font-weight: 600;
+      transition: background-color 0.3s ease;
+    }
+    .back-button:hover {
+      background-color: #216030;
+    }
+  </style>
+</head>
+<body>
+  <div class="error-container">
+    <h2>{{ translations['error_title'] }}</h2>
+    <p>{{ message }}</p>
+    <a href="/" class="back-button">{{ translations['go_back'] }}</a>
+  </div>
+</body>
+</html>
+

@@ -1,0 +1,3757 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "en": "Gruha Lakshmi Scheme",
+      "hi": "गृह लक्ष्मी योजना",
+      "kn": "ಗೃಹ ಲಕ್ಷ್ಮಿ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        18,
+        60
+      ],
+      "gender": [
+        "Female"
+      ],
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "income_limit": 300000,
+      "occupation": [
+        "Housewife"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Monthly ₹2000 cash support to women who are heads of families.",
+      "hi": "परिवार की महिला मुखिया को प्रति माह ₹2000 की सहायता।",
+      "kn": "ಕುಟುಂಬದ ಮಹಿಳಾ ಮುಖ್ಯಸ್ಥರಿಗೆ ಮಾಸಿಕ ₹2000 ನೆರವು."
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Ration Card"
+    ],
+    "how_to_apply": {
+      "en": "Apply via Seva Sindhu portal online or at Grama One centers.",
+      "hi": "सेवा सिंधु पोर्टल या ग्राम वन केंद्रों के माध्यम से आवेदन करें।",
+      "kn": "ಸೇವಾ ಸಿಂಧು ಪೋರ್ಟಲ್ ಅಥವಾ ಗ್ರಾಮ ಒನ್ ಕೇಂದ್ರಗಳಲ್ಲಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": "https://sevasindhu.karnataka.gov.in/",
+    "step2_question": {
+      "question": {
+        "en": "Are you the head of your family?",
+        "hi": "क्या आप परिवार की मुखिया हैं?",
+        "kn": "ನೀವು ಕುಟುಂಬದ ಮುಖ್ಯಸ್ಥರಾಗಿದ್ದೀರಾ?"
+      },
+      "expected_answer": "Yes"
+    },
+    "documents_required_translated": {
+      "en": ["Aadhaar Card", "Land Ownership Document", "Bank Account Details"],
+      "hi": ["आधार कार्ड", "भूमि स्वामित्व दस्तावेज़", "बैंक खाता विवरण"],
+      "kn": ["ಆಧಾರ್ ಕಾರ್ಡ್", "ಜಮೀನು ಸ್ವಾಮ್ಯ ದಾಖಲೆಗಳು", "ಬ್ಯಾಂಕ್ ಖಾತೆ ವಿವರಗಳು"]
+    }
+  },
+  {
+    "id": 2,
+    "name": {
+      "en": "Gruha Jyothi Scheme",
+      "hi": "गृह ज्योति योजना",
+      "kn": "ಗೃಹ ಜ್ಯೋತಿ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        18,
+        99
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "caste": [
+        "All"
+      ],
+      "income_limit": 500000,
+      "occupation": [
+        "Any"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Free electricity up to 200 units per household per month.",
+      "hi": "हर घर को प्रति माह 200 यूनिट तक मुफ्त बिजली।",
+      "kn": "ಪ್ರತಿ ಮನೆಗೆ ತಿಂಗಳಿಗೆ 200 ಯೂನಿಟ್ ವಿದ್ಯುತ್ ಉಚಿತ."
+    },
+    "documents_required": [
+      "Electricity Bill",
+      "Aadhaar Card",
+      "RR Number"
+    ],
+    "how_to_apply": {
+      "en": "Self-declaration form to be submitted via Seva Sindhu portal.",
+      "hi": "सेवा सिंधु पोर्टल पर स्व-घोषणा फॉर्म जमा करें।",
+      "kn": "ಸೇವಾ ಸಿಂಧು ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ಸ್ವಘೋಷಣಾ ಫಾರ್ಮ್ ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": "https://sevasindhu.karnataka.gov.in/",
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": ["Aadhaar Card", "Income Certificate", "Caste Certificate", "Ration Card"],
+      "hi": ["आधार कार्ड", "आय प्रमाण पत्र", "जाति प्रमाण पत्र", "राशन कार्ड"],
+      "kn": ["ಆಧಾರ್ ಕಾರ್ಡ್", "ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ", "ಜಾತಿ ಪ್ರಮಾಣಪತ್ರ", "ರೇಷನ್ ಕಾರ್ಡ್"]
+    }
+  },
+  {
+    "id": 3,
+    "name": {
+      "en": "Shakti Scheme (Free Bus Travel)",
+      "hi": "शक्ति योजना (नि:शुल्क बस यात्रा)",
+      "kn": "ಶಕ್ತಿ ಯೋಜನೆ (ಉಚಿತ ಬಸ್ ಪ್ರಯಾಣ)"
+    },
+    "eligibility": {
+      "age_range": [
+        5,
+        80
+      ],
+      "gender": [
+        "Female"
+      ],
+      "caste": [
+        "All"
+      ],
+      "income_limit": 1000000,
+      "occupation": [
+        "Any"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Free bus travel for all women in Karnataka in state-run buses.",
+      "hi": "कर्नाटक में सभी महिलाओं को राज्य बसों में मुफ्त यात्रा।",
+      "kn": "ಕರ್ನಾಟಕದ ಎಲ್ಲಾ ಮಹಿಳೆಯರಿಗೆ ಸರ್ಕಾರಿ ಬಸ್‌ಗಳಲ್ಲಿ ಉಚಿತ ಪ್ರಯಾಣ."
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "ID Proof for Address"
+    ],
+    "how_to_apply": {
+      "en": "No formal application needed. Show Aadhaar card or ID on boarding.",
+      "hi": "कोई आवेदन आवश्यक नहीं। आधार कार्ड या पहचान पत्र दिखाएं।",
+      "kn": "ಅರ್ಜಿಯ ಅವಶ್ಯಕತೆ ಇಲ್ಲ. ಆಧಾರ್ ಕಾರ್ಡ್ ತೋರಿಸಿ."
+    },
+    "application_link": null,
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": ["College ID Card", "Aadhaar Card", "Recent Passport Size Photo"],
+      "hi": ["कॉलेज आईडी कार्ड", "आधार कार्ड", "हाल की पासपोर्ट आकार फोटो"],
+      "kn": ["ಕಾಲೇಜ್ ಐಡಿ ಕಾರ್ಡ್", "ಆಧಾರ್ ಕಾರ್ಡ್", "ಇತ್ತೀಚಿನ ಪಾಸ್ಪೋರ್ಟ್ ಗಾತ್ರದ ಫೋಟೋ"]
+    }
+  },
+  {
+    "id": 4,
+    "name": {
+      "en": "Anna Bhagya Scheme",
+      "hi": "अन्न भाग्य योजना",
+      "kn": "ಅನ್ನ ಭಾಗ್ಯ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        0,
+        99
+      ],
+      "gender": [
+        "All"
+      ],
+      "caste": [
+        "All"
+      ],
+      "income_limit": 150000,
+      "occupation": [
+        "Any"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "5 kg additional rice per person per month for BPL households.",
+      "hi": "बीपीएल परिवारों को प्रति व्यक्ति 5 किग्रा अतिरिक्त चावल।",
+      "kn": "ಬಿಪಿಎಲ್ ಕುಟುಂಬಗಳಿಗೆ ಪ್ರತಿ ವ್ಯಕ್ತಿಗೆ ತಿಂಗಳಿಗೆ 5 ಕಿಲೊ ಅಕ್ಕಿ ಹೆಚ್ಚಾಗಿ."
+    },
+    "documents_required": [
+      "BPL Ration Card",
+      "Aadhaar Card"
+    ],
+    "how_to_apply": {
+      "en": "BPL ration card holders automatically receive benefits via PDS.",
+      "hi": "बीपीएल राशन कार्डधारकों को पीडीएस के माध्यम से स्वतः लाभ मिलता है।",
+      "kn": "ಬಿಪಿಎಲ್ ರೇಷನ್ ಕಾರ್ಡ್‌ದೊಂದಿಗೆ ಪಿಡಿಎಸ್ ಮೂಲಕ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಲಾಭ ದೊರೆಯುತ್ತದೆ."
+    },
+    "application_link": null,
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": ["Law Degree Certificate", "Bar Council Enrollment Proof", "Aadhaar Card"],
+      "hi": ["कानून डिग्री प्रमाण पत्र", "बार काउंसिल पंजीकरण प्रमाण", "आधार कार्ड"],
+      "kn": ["ಕಾನೂನು ಪದವಿ ಪ್ರಮಾಣಪತ್ರ", "ಬಾರ್ ಕೌನ್ಸಿಲ್ ನೋಂದಣಿ ಸಾಬೀತು", "ಆಧಾರ್ ಕಾರ್ಡ್"]
+    }
+  },
+  {
+    "id": 5,
+    "name": {
+      "en": "Yuva Nidhi Scheme",
+      "hi": "युवा निधि योजना",
+      "kn": "ಯುವ ನಿಧಿ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        18,
+        30
+      ],
+      "gender": [
+        "All"
+      ],
+      "caste": [
+        "All"
+      ],
+      "income_limit": 500000,
+      "occupation": [
+        "Unemployed Graduate",
+        "Diploma Holder"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Monthly allowance of ₹3000 (graduates) or ₹1500 (diploma holders) for unemployed youth.",
+      "hi": "बेरोजगार युवाओं को ₹3000 या ₹1500 प्रति माह की सहायता।",
+      "kn": "ಬೇರೊಂದು ಉದ್ಯೋಗವಿಲ್ಲದ ಯುವಕರಿಗೆ ತಿಂಗಳಿಗೆ ₹3000 ಅಥವಾ ₹1500 ನೆರವು."
+    },
+    "documents_required": [
+      "Degree/Diploma Certificate",
+      "Unemployment Declaration",
+      "Aadhaar Card",
+      "Bank Passbook"
+    ],
+    "how_to_apply": {
+      "en": "Register on Seva Sindhu portal with educational documents and bank details.",
+      "hi": "शैक्षिक दस्तावेज और बैंक विवरण के साथ सेवा सिंधु पोर्टल पर पंजीकरण करें।",
+      "kn": "ಶೈಕ್ಷಣಿಕ ದಾಖಲೆಗಳು ಮತ್ತು ಬ್ಯಾಂಕ್ ವಿವರಗಳೊಂದಿಗೆ ಸೇವಾ ಸಿಂಧು ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ನೋಂದಣಿ ಮಾಡಿ."
+    },
+    "application_link": "https://sevasindhu.karnataka.gov.in/",
+    "step2_question": {
+      "question": {
+        "en": "Have you remained unemployed for 6 consecutive months?",
+        "hi": "क्या आप लगातार 6 महीने से बेरोजगार हैं?",
+        "kn": "ನೀವು ನಿರಂತರವಾಗಿ 6 ತಿಂಗಳು ಉದ್ಯೋಗವಿಲ್ಲದೆ ಇತ್ತೀರಾ?"
+      },
+      "expected_answer": "Yes"
+    },
+    "documents_required_translated": {
+      "en": ["Aadhaar Card", "Caste Certificate", "Occupation Proof", "Bank Details"],
+      "hi": ["आधार कार्ड", "जाति प्रमाण पत्र", "पेशे का प्रमाण पत्र", "बैंक विवरण"],
+      "kn": ["ಆಧಾರ್ ಕಾರ್ಡ್", "ಜಾತಿ ಪ್ರಮಾಣಪತ್ರ", "ವೃತ್ತಿ ದಾಖಲೆ", "ಬ್ಯಾಂಕ್ ವಿವರಗಳು"]
+    }
+  },
+  {
+    "id": 6,
+    "name": {
+      "en": "Vajpayee Arogyasri Scheme",
+      "hi": "वाजपेयी आरोग्यश्री योजना",
+      "kn": "ವಾಜಪೇಯಿ ಆರೋಗ್ಯಶ್ರೀ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        0,
+        99
+      ],
+      "gender": [
+        "All"
+      ],
+      "caste": [
+        "All"
+      ],
+      "income_limit": 150000,
+      "occupation": [
+        "Any"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Free tertiary healthcare for BPL families; covers 402 surgeries up to ₹1.5L.",
+      "hi": "बीपीएल परिवारों के लिए नि:शुल्क तृतीयक स्वास्थ्य देखभाल। ₹1.5 लाख तक की 402 सर्जरी शामिल।",
+      "kn": "ಬಿಪಿಎಲ್ ಕುಟುಂಬಗಳಿಗೆ ಉಚಿತ ತೃತೀಯ ಆರೋಗ್ಯ ಸೇವೆ; ₹1.5 ಲಕ್ಷದವರೆಗೆ 402 ಶಸ್ತ್ರಚಿಕಿತ್ಸೆಗಳಿಗೆ ಅನುದಾನ."
+    },
+    "documents_required": [
+      "BPL Card",
+      "Hospital Referral Letter",
+      "Aadhaar Card"
+    ],
+    "how_to_apply": {
+      "en": "Visit network hospitals with referral letter and BPL proof.",
+      "hi": "नेटवर्क अस्पतालों में बीपीएल प्रमाण और रेफरल लेटर के साथ जाएं।",
+      "kn": "ನೆಟ್ವರ್ಕ್ ಆಸ್ಪತ್ರೆಗೆ ಬಿಪಿಎಲ್ ಪಾಸು ಮತ್ತು ರೆಫರಲ್ ಲೆಟರ್ ಜೊತೆಗೆ ಭೇಟಿ ನೀಡಿ."
+    },
+    "application_link": null,
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": ["Aadhaar Card", "Ration Card", "Income Certificate"],
+      "hi": ["आधार कार्ड", "राशन कार्ड", "आय प्रमाण पत्र"],
+      "kn": ["ಆಧಾರ್ ಕಾರ್ಡ್", "ರೇಷನ್ ಕಾರ್ಡ್", "ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ"]
+    }
+  },
+  {
+    "id": 7,
+    "name": {
+      "en": "Shaadi Bhagya Scheme",
+      "hi": "शादी भाग्य योजना",
+      "kn": "ಶಾದಿ ಭಾಗ್ಯ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        18,
+        60
+      ],
+      "gender": [
+        "Female"
+      ],
+      "caste": [
+        "Minority"
+      ],
+      "income_limit": 150000,
+      "occupation": [
+        "Any"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Marriage assistance of ₹50,000 to economically backward minority women.",
+      "hi": "अल्पसंख्यक गरीब महिलाओं के विवाह के लिए ₹50,000 सहायता।",
+      "kn": "ಆರ್ಥಿಕವಾಗಿ ಹಿನ್ನಡೆಯಲ್ಲಿರುವ ಅಲ್ಪಸಂಖ್ಯಾತ ಮಹಿಳೆಯರ ವಿವಾಹಕ್ಕೆ ₹50,000 ನೆರವು."
+    },
+    "documents_required": [
+      "Minority Certificate",
+      "Income Certificate",
+      "Marriage Proof",
+      "Aadhaar Card"
+    ],
+    "how_to_apply": {
+      "en": "Apply offline at district minority welfare offices.",
+      "hi": "जिला अल्पसंख्यक कल्याण कार्यालय में ऑफलाइन आवेदन करें।",
+      "kn": "ಜಿಲ್ಲಾ ಅಲ್ಪಸಂಖ್ಯಾತ ಕಲ್ಯಾಣ ಕಚೇರಿಯಲ್ಲಿ ಆಫ್‌ಲೈನ್ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": null,
+    "step2_question": {
+      "question": {
+        "en": "Is your annual family income below ₹1.5L?",
+        "hi": "क्या आपकी वार्षिक पारिवारिक आय ₹1.5 लाख से कम है?",
+        "kn": "ನಿಮ್ಮ ವಾರ್ಷಿಕ ಕುಟುಂಬದ ಆದಾಯ ₹1.5 ಲಕ್ಷಕ್ಕಿಂತ ಕಡಿಮೆಯೇ?"
+      },
+      "expected_answer": "Yes"
+    },
+    "documents_required_translated": {
+      "en": [
+        "Minority Certificate",
+        "Income Certificate",
+        "Marriage Proof",
+        "Aadhaar Card"
+      ],
+      "kn": [
+        "ಅಲ್ಪಸಂಖ್ಯಾತ ಪ್ರಮಾಣಪತ್ರ",
+        "ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ",
+        "ವಿವಾಹದ ಸಾಬೀತು",
+        "ಆಧಾರ್ ಕಾರ್ಡ್"
+      ],
+      "hi": [
+        "अल्पसंख्यक प्रमाण पत्र",
+        "आय प्रमाण पत्र",
+        "विवाह का प्रमाण",
+        "आधार कार्ड"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "name": {
+      "en": "Indira Canteens",
+      "hi": "इंदिरा कैंटीन",
+      "kn": "ಇಂದಿರಾ ಕ್ಯಾಂಟೀನ್"
+    },
+    "eligibility": {
+      "age_range": [
+        0,
+        99
+      ],
+      "gender": [
+        "All"
+      ],
+      "caste": [
+        "All"
+      ],
+      "income_limit": 500000,
+      "occupation": [
+        "Any"
+      ],
+      "location": [
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Provides subsidized meals (₹5–10) for urban poor and laborers.",
+      "hi": "गरीबों के लिए सब्सिडी वाला भोजन ₹5–10 में उपलब्ध।",
+      "kn": "ನಗರದ ಬಡವರಿಗೆ ₹5–10 ರಲ್ಲಿ ಭೋಜನವನ್ನು ನೀಡುವ ಯೋಜನೆ."
+    },
+    "documents_required": [],
+    "how_to_apply": {
+      "en": "No application. Meals available directly at canteen locations.",
+      "hi": "कोई आवेदन नहीं। भोजन सीधे कैंटीन में उपलब्ध है।",
+      "kn": "ಅರ್ಜಿಯ ಅಗತ್ಯವಿಲ್ಲ. ಕ್ಯಾಂಟೀನ್‌ಗಳಲ್ಲಿ ನೇರವಾಗಿ ಆಹಾರ ಲಭ್ಯವಿದೆ."
+    },
+    "application_link": null,
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": [],
+      "kn": [],
+      "hi": []
+    }
+  },
+  {
+    "id": 9,
+    "name": {
+      "en": "Ksheera Bhagya Scheme",
+      "hi": "क्षीर भाग्य योजना",
+      "kn": "ಕ್ಷೀರ ಭಾಗ್ಯ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        5,
+        18
+      ],
+      "gender": [
+        "All"
+      ],
+      "caste": [
+        "All"
+      ],
+      "income_limit": 500000,
+      "occupation": [
+        "Student"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Free milk to school children across Karnataka.",
+      "hi": "स्कूल के बच्चों को नि:शुल्क दूध वितरण।",
+      "kn": "ಕರ್ನಾಟಕದ ಶಾಲಾ ಮಕ್ಕಳಿಗೆ ಉಚಿತ ಹಾಲು ವಿತರಣೆ."
+    },
+    "documents_required": [
+      "School Enrollment Record"
+    ],
+    "how_to_apply": {
+      "en": "Schools register with Department of Education. No individual application needed.",
+      "hi": "स्कूल शिक्षा विभाग के साथ पंजीकरण कराते हैं। व्यक्तिगत आवेदन नहीं चाहिए।",
+      "kn": "ಶಾಲೆಗಳು ಶಿಕ್ಷಣ ಇಲಾಖೆ ಜೊತೆಗೆ ನೋಂದಣಿ ಮಾಡುತ್ತವೆ. ಪ್ರತ್ಯೇಕ ಅರ್ಜಿಯ ಅಗತ್ಯವಿಲ್ಲ."
+    },
+    "application_link": null,
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": ["School Enrollment Record"],
+      "kn": [" ಶಾಲಾ ದಾಖಲಾತಿ ದಾಖಲೆ"],
+      "hi": ["स्कूल नामांकन रिकार्ड"]
+    }
+  },
+  {
+    "id": 10,
+    "name": {
+      "en": "Mathrushree Scheme",
+      "hi": "मातृश्री योजना",
+      "kn": "ಮಾತೃಶ್ರೀ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        18,
+        35
+      ],
+      "gender": [
+        "Female"
+      ],
+      "caste": [
+        "All"
+      ],
+      "income_limit": 200000,
+      "occupation": [
+        "Pregnant Woman"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "₹6,000 cash assistance to pregnant women in 3 installments.",
+      "hi": "गर्भवती महिलाओं को तीन किश्तों में ₹6,000 की सहायता।",
+      "kn": "ಗರ್ಭಿಣಿ ಮಹಿಳೆಯರಿಗೆ 3 ಹಂತಗಳಲ್ಲಿ ₹6,000 ನೆರವು."
+    },
+    "documents_required": [
+      "Pregnancy Certificate",
+      "Aadhaar",
+      "BPL Card",
+      "Bank Passbook"
+    ],
+    "how_to_apply": {
+      "en": "Register via local PHC or Anganwadi center.",
+      "hi": "स्थानीय पीएचसी या आंगनवाड़ी केंद्र के माध्यम से पंजीकरण करें।",
+      "kn": "ಸ್ಥಳೀಯ ಪಿಎಚ್ಸಿ ಅಥವಾ ಅಂಗನವಾಡಿ ಕೇಂದ್ರದ ಮೂಲಕ ನೋಂದಣಿ ಮಾಡಿ."
+    },
+    "application_link": null,
+    "step2_question": {
+      "question": {
+        "en": "Are you registered with an Anganwadi?",
+        "hi": "क्या आप आंगनवाड़ी में पंजीकृत हैं?",
+        "kn": "ನೀವು ಅಂಗನವಾಡಿಯಲ್ಲಿ ನೋಂದಾಯಿತರಾಗಿದ್ದೀರಾ?"
+      },
+      "expected_answer": "Yes"
+    },
+    "documents_required_translated": {
+      "en": [
+        "Pregnancy Certificate",
+        "Aadhaar",
+        "BPL Card",
+        "Bank Passbook"
+      ],
+      "kn": [
+        "ಗರ್ಭಧಾರಣಾ ಪ್ರಮಾಣಪತ್ರ",
+        "ಆಧಾರ್",
+        "ಬಿಪಿಎಲ್ ಕಾರ್ಡ್",
+        "ಬ್ಯಾಂಕ್ ಪಾಸ್ ಬುಕ್"
+      ],
+      "hi": [
+        "गर्भावस्था प्रमाण पत्र",
+        "आधार",
+        "बीपीएल कार्ड",
+        "बैंक पासबुक"
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "name": {
+      "en": "Unnati Scheme",
+      "hi": "उन्नति योजना",
+      "kn": "ಉನ್ನತಿ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        18,
+        40
+      ],
+      "gender": [
+        "All"
+      ],
+      "caste": [
+        "SC",
+        "ST"
+      ],
+      "income_limit": 250000,
+      "occupation": [
+        "Unemployed"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Skill development and entrepreneurship training for SC/ST youth.",
+      "hi": "SC/ST युवाओं के लिए कौशल विकास और उद्यमिता प्रशिक्षण।",
+      "kn": "ಎಸ್‌ಸಿ/ಎಸ್‌ಟಿ ಯುವಕರಿಗೆ ಕೌಶಲ್ಯ ಅಭಿವೃದ್ಧಿ ಮತ್ತು ಉದ್ಯಮಶೀಲತೆ ತರಬೇತಿ."
+    },
+    "documents_required": [
+      "Caste Certificate",
+      "Income Certificate",
+      "Aadhaar Card"
+    ],
+    "how_to_apply": {
+      "en": "Apply through district social welfare offices.",
+      "hi": "जिला समाज कल्याण कार्यालय में आवेदन करें।",
+      "kn": "ಜಿಲ್ಲಾ ಸಾಮಾಜಿಕ ಕಲ್ಯಾಣ ಕಚೇರಿಯಲ್ಲಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": null,
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": [
+        "Caste Certificate",
+        "Income Certificate",
+        "Aadhaar Card"
+      ],
+      "kn": [
+        "ಜಾತಿ ಪ್ರಮಾಣಪತ್ರ",
+        "ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ",
+        "ಆಧಾರ್ ಕಾರ್ಡ್"
+      ],
+      "hi": [
+        "जाति प्रमाण पत्र",
+        "आय प्रमाण पत्र",
+        "आधार कार्ड"
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "name": {
+      "en": "Saviruchi Mobile Canteen Scheme",
+      "hi": "सविरुचि मोबाइल कैंटीन योजना",
+      "kn": "ಸವಿರುಚಿ ಮೊಬೈಲ್ ಕ್ಯಾಂಟೀನ್ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        18,
+        50
+      ],
+      "gender": [
+        "Female"
+      ],
+      "caste": [
+        "SC",
+        "ST",
+        "OBC"
+      ],
+      "income_limit": 300000,
+      "occupation": [
+        "SHG Member"
+      ],
+      "location": [
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Women from SHGs run mobile kitchens with government support.",
+      "hi": "स्व-सहायता समूह की महिलाएं सरकारी सहायता से मोबाइल कैंटीन चलाती हैं।",
+      "kn": "ಸ್ವಸಹಾಯ ಗುಂಪುಗಳ ಮಹಿಳೆಯರು ಸರ್ಕಾರದ ಸಹಾಯದಿಂದ ಮೊಬೈಲ್ ಕ್ಯಾಂಟೀನ್‌ಗಳನ್ನು ನಡೆಸುತ್ತಾರೆ."
+    },
+    "documents_required": [
+      "SHG Membership Proof",
+      "ID Proof",
+      "Bank Account"
+    ],
+    "how_to_apply": {
+      "en": "Apply via Women & Child Development Department offices.",
+      "hi": "महिला और बाल विकास विभाग कार्यालय में आवेदन करें।",
+      "kn": "ಮಹಿಳಾ ಮತ್ತು ಮಕ್ಕಳ ಅಭಿವೃದ್ಧಿ ಇಲಾಖೆಯ ಕಚೇರಿಯಲ್ಲಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": null,
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": [
+        "SHG Membership Proof",
+        "ID Proof",
+        "Bank Account"
+      ],
+      "kn": [
+        "SHG ಸದಸ್ಯತ್ವದ ಸಾಬೀತು",
+        "ಐಡಿ ಸಾಬೀತು",
+        "ಬ್ಯಾಂಕ್ ಖಾತೆ"
+      ],
+      "hi": [
+        "एसएचजी सदस्यता प्रमाण",
+        "पहचान प्रमाण",
+        "बैंक खाता"
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "name": {
+      "en": "Yeshasvini Health Insurance Scheme",
+      "hi": "यशस्विनी स्वास्थ्य बीमा योजना",
+      "kn": "ಯಶಸ್ವಿನಿ ಆರೋಗ್ಯ ವಿಮಾ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        1,
+        75
+      ],
+      "gender": [
+        "All"
+      ],
+      "caste": [
+        "All"
+      ],
+      "income_limit": 500000,
+      "occupation": [
+        "Farmer",
+        "Artisan",
+        "SHG Member"
+      ],
+      "location": [
+        "Rural"
+      ]
+    },
+    "description": {
+      "en": "Affordable health insurance for rural cooperative members.",
+      "hi": "ग्रामीण सहकारी समितियों के सदस्यों के लिए सस्ती स्वास्थ्य बीमा।",
+      "kn": "ಗ್ರಾಮೀಣ ಸಹಕಾರ ಸಂಘದ ಸದಸ್ಯರಿಗೆ ಅಗ್ಗದ ಆರೋಗ್ಯ ವಿಮೆ ಯೋಜನೆ."
+    },
+    "documents_required": [
+      "Co-op Membership ID",
+      "Aadhaar",
+      "Address Proof"
+    ],
+    "how_to_apply": {
+      "en": "Apply through your cooperative society.",
+      "hi": "अपनी सहकारी समिति के माध्यम से आवेदन करें।",
+      "kn": "ನಿಮ್ಮ ಸಹಕಾರ ಸಂಘದ ಮೂಲಕ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": "https://yeshasvini.karnataka.gov.in",
+    "step2_question": {
+      "question": {
+        "en": "Are you a member of a registered rural cooperative society?",
+        "hi": "क्या आप पंजीकृत ग्रामीण सहकारी समिति के सदस्य हैं?",
+        "kn": "ನೀವು ನೊಂದಾಯಿತ ಗ್ರಾಮೀಣ ಸಹಕಾರ ಸಂಘದ ಸದಸ್ಯರಾ?"
+      },
+      "expected_answer": "Yes"
+    },
+    "documents_required_translated": {
+      "en": [
+        "Co-op Membership ID",
+        "Aadhaar",
+        "Address Proof"
+      ],
+      "kn": [
+        "ಸಹಕಾರ ಸದಸ್ಯತ್ವ ಐಡಿ",
+        "ಆಧಾರ್",
+        "ವಿಳಾಸದ ಸಾಬೀತು"
+      ],
+      "hi": [
+        "सहकारी सदस्यता आईडी",
+        "आधार",
+        "पता प्रमाण"
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "name": {
+      "en": "Raita Vidya Nidhi Scholarship Scheme",
+      "hi": "रैता विद्या निधि छात्रवृत्ति योजना",
+      "kn": "ರೈತ ವಿದ್ಯಾ ನಿಧಿ ವಿದ್ಯಾರ್ಥಿವೇತನ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        17,
+        30
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "caste": [
+        "All"
+      ],
+      "income_limit": null,
+      "occupation": [
+        "Student"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Scholarships for children of farmers pursuing higher education.",
+      "hi": "किसानों के बच्चों के लिए उच्च शिक्षा हेतु छात्रवृत्ति।",
+      "kn": "ಉನ್ನತ ಶಿಕ್ಷಣ ಪಡೆಯುತ್ತಿರುವ ರೈತರ ಮಕ್ಕಳಿಗೆ ವಿದ್ಯಾರ್ಥಿವೇತನ."
+    },
+    "documents_required": [
+      "Farmer ID",
+      "Student ID Card",
+      "Aadhaar",
+      "Bank Passbook"
+    ],
+    "how_to_apply": {
+      "en": "Apply online through the Department of Agriculture Scholarship Portal.",
+      "hi": "कृषि विभाग छात्रवृत्ति पोर्टल के माध्यम से ऑनलाइन आवेदन करें।",
+      "kn": "ಕೃಷಿ ಇಲಾಖೆಯ ವಿದ್ಯಾರ್ಥಿವೇತನ ಪೋರ್ಟಲ್ ಮೂಲಕ ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": "https://raitamitra.karnataka.gov.in",
+    "step2_question": {
+      "question": {
+        "en": "Are you a child of a registered farmer?",
+        "hi": "क्या आप एक पंजीकृत किसान के पुत्र/पुत्री हैं?",
+        "kn": "ನೀವು ನೋಂದಾಯಿತ ರೈತರ ಮಗ/ಮಗಳು ಆಗಿದ್ದೀರಾ?"
+      },
+      "expected_answer": "yes"
+    },
+    "documents_required_translated": {
+      "en": [
+        "Farmer ID",
+        "Student ID Card",
+        "Aadhaar",
+        "Bank Passbook"
+      ],
+      "kn": [
+        "ಕೃಷಕ ಐಡಿ",
+        "ವಿದ್ಯಾರ್ಥಿ ಐಡಿ ಕಾರ್ಡ್",
+        "ಆಧಾರ್",
+        "ಬ್ಯಾಂಕ್ ಪಾಸ್ ಬುಕ್"
+      ],
+      "hi": [
+        "किसान आईडी",
+        "छात्र आईडी कार्ड",
+        "आधार",
+        "बैंक पासबुक"
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "name": {
+      "en": "SC/ST Entrepreneur Support Scheme",
+      "hi": "अनुसूचित जाति/जनजाति उद्यमी सहायता योजना",
+      "kn": "ಎಸ್‌ಸಿ/ಎಸ್‌ಟಿ ಉದ್ಯಮಿ ಬೆಂಬಲ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        18,
+        45
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "caste": [
+        "SC",
+        "ST"
+      ],
+      "income_limit": 250000,
+      "occupation": [
+        "Entrepreneur"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Financial support for SC/ST individuals to start businesses.",
+      "hi": "एससी/एसटी व्यक्तियों को व्यवसाय शुरू करने के लिए वित्तीय सहायता।",
+      "kn": "ಎಸ್‌ಸಿ/ಎಸ್‌ಟಿ ವ್ಯಕ್ತಿಗಳಿಗೆ ವ್ಯವಹಾರ ಪ್ರಾರಂಭಿಸಲು ಹಣಕಾಸು ಸಹಾಯ."
+    },
+    "documents_required": [
+      "Caste Certificate",
+      "Income Certificate",
+      "Business Proposal",
+      "Aadhaar Card"
+    ],
+    "how_to_apply": {
+      "en": "Submit application through the District Social Welfare Office.",
+      "hi": "जिला समाज कल्याण कार्यालय के माध्यम से आवेदन जमा करें।",
+      "kn": "ಜಿಲ್ಲಾ ಸಾಮಾಜಿಕ ಕಲ್ಯಾಣ ಕಚೇರಿಯ ಮೂಲಕ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": "N/A",
+    "step2_question": {
+      "question": {
+        "en": "Do you have a business proposal ready?",
+        "hi": "क्या आपके पास एक तैयार व्यावसायिक प्रस्ताव है?",
+        "kn": "ನೀವು ವ್ಯವಹಾರ ಪ್ರಸ್ತಾವನೆಯನ್ನಾಗಲೀ ತಯಾರಿಸಿಕೊಂಡಿದ್ದೀರಾ?"
+      },
+      "expected_answer": "yes"
+    },
+    "documents_required_translated": {
+      "en": [
+        "Caste Certificate",
+        "Income Certificate",
+        "Business Proposal",
+        "Aadhaar Card"
+      ],
+      "kn": [
+        "ಜಾತಿ ಪ್ರಮಾಣಪತ್ರ",
+        "ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ",
+        "ವ್ಯವಹಾರ ಪ್ರಸ್ತಾವನೆ",
+        "ಆಧಾರ್ ಕಾರ್ಡ್"
+      ],
+      "hi": [
+        "जाति प्रमाण पत्र",
+        "आय प्रमाण पत्र",
+        "व्यवसाय प्रस्ताव",
+        "आधार कार्ड"
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "name": {
+      "en": "Ambedkar Karmika Sahaya Hastha Scheme",
+      "hi": "अंबेडकर कर्मिका सहायता हस्त योजना",
+      "kn": "ಅಂಬೇಡ್ಕರ್ ಕಾರ್ಮಿಕ ಸಹಾಯ ಹಸ್ತ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        18,
+        60
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "caste": [
+        "SC",
+        "ST"
+      ],
+      "income_limit": 200000,
+      "occupation": [
+        "laborer"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Provides financial assistance to unorganized laborers from SC/ST communities.",
+      "hi": "एससी/एसटी समुदाय के असंगठित श्रमिकों को वित्तीय सहायता प्रदान करता है।",
+      "kn": "ಎಸ್‌ಸಿ/ಎಸ್‌ಟಿ ಸಮುದಾಯದ ಅಸಂಗಟಿತ ಕಾರ್ಮಿಕರಿಗೆ ಹಣಕಾಸು ಸಹಾಯ ನೀಡುತ್ತದೆ."
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Caste Certificate",
+      "Labour ID or Employment Proof"
+    ],
+    "how_to_apply": {
+      "en": "Apply through Labour Department portal or Seva Sindhu.",
+      "hi": "श्रम विभाग पोर्टल या सेवा सिंधु के माध्यम से आवेदन करें।",
+      "kn": "ಕಾರ್ಮಿಕ ಇಲಾಖೆ ಪೋರ್ಟಲ್ ಅಥವಾ ಸೇವಾ ಸಿಂಧು ಮೂಲಕ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": "https://sevasindhu.karnataka.gov.in",
+    "step2_question": {
+      "question": {
+        "en": "Are you registered with the Karnataka Labour Welfare Board?",
+        "hi": "क्या आप कर्नाटक श्रम कल्याण बोर्ड में पंजीकृत हैं?",
+        "kn": "ನೀವು ಕರ್ನಾಟಕ ಕಾರ್ಮಿಕ ಕಲ್ಯಾಣ ಮಂಡಳಿಯಲ್ಲಿ ನೋಂದಾಯಿತರಾಗಿದ್ದೀರಾ?"
+      },
+      "expected_answer": "yes"
+    },
+    "documents_required_translated": {
+      "en": [
+        "Aadhaar Card",
+        "Caste Certificate",
+        "Labour ID or Employment Proof"
+      ],
+      "kn": [
+        "ಆಧಾರ್ ಕಾರ್ಡ್",
+        "ಜಾತಿ ಪ್ರಮಾಣಪತ್ರ",
+        "ಕಾರ್ಮಿಕ ಐಡಿ ಅಥವಾ ಉದ್ಯೋಗದ ಸಾಬೀತು"
+      ],
+      "hi": [
+        "आधार कार्ड",
+        "जाति प्रमाण पत्र",
+        "श्रम आईडी या रोजगार प्रमाण"
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "name": {
+      "en": "Janata Arogya Abhivruddhi Yojana",
+      "hi": "जनता आरोग्य अभिवृद्धि योजना",
+      "kn": "ಜನತಾ ಆರೋಗ್ಯ ಅಭಿವೃದ್ದಿ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        0,
+        99
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "caste": [
+        "All"
+      ],
+      "income_limit": 300000,
+      "occupation": [
+        "Any"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Health insurance scheme for families not covered under Ayushman Bharat.",
+      "hi": "आयुष्मान भारत के तहत कवर नहीं किए गए परिवारों के लिए स्वास्थ्य बीमा योजना।",
+      "kn": "ಆಯುಷ್ಮಾನ್ ಭಾರತ್ ವ್ಯಾಪ್ತಿಗೆ ಒಳಪಡದ ಕುಟುಂಬಗಳಿಗೆ ಆರೋಗ್ಯ ವಿಮಾ ಯೋಜನೆ."
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Ration Card",
+      "Income Certificate"
+    ],
+    "how_to_apply": {
+      "en": "Apply through empaneled hospitals or district health offices.",
+      "hi": "मान्यता प्राप्त अस्पतालों या जिला स्वास्थ्य कार्यालयों के माध्यम से आवेदन करें।",
+      "kn": "ಅಂಗೀಕೃತ ಆಸ್ಪತ್ರೆಗಳು ಅಥವಾ ಜಿಲ್ಲೆ ಆರೋಗ್ಯ ಕಚೇರಿಗಳ ಮೂಲಕ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": "https://arogya.karnataka.gov.in",
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": [
+        "Aadhaar Card",
+        "Ration Card",
+        "Income Certificate"
+      ],
+      "kn": [
+        "ಆಧಾರ್ ಕಾರ್ಡ್",
+        "ರೇಷನ್ ಕಾರ್ಡ್",
+        "ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ"
+      ],
+      "hi": [
+        "आधार कार्ड",
+        "राशन कार्ड",
+        "आय प्रमाण पत्र"
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "name": {
+      "en": "Hiriya Hunne (Youth Skill Development)",
+      "hi": "हिरिया हुनने (युवा कौशल विकास)",
+      "kn": "ಹಿರಿಯ ಹುನ್ನೆ (ಯುವ ಕೌಶಲ್ಯಾಭಿವೃದ್ಧಿ)"
+    },
+    "eligibility": {
+      "age_range": [
+        18,
+        35
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "caste": [
+        "SC",
+        "ST",
+        "OBC"
+      ],
+      "income_limit": 250000,
+      "occupation": [
+        "unemployed"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Skill training and employment support for youth from rural and backward communities.",
+      "hi": "ग्रामीण और पिछड़े समुदायों के युवाओं के लिए कौशल प्रशिक्षण और रोजगार सहायता।",
+      "kn": "ಗ್ರಾಮೀಣ ಮತ್ತು ಹಿಂದುಳಿದ ಸಮುದಾಯದ ಯುವಕರಿಗೆ ಕೌಶಲ್ಯ ತರಬೇತಿ ಮತ್ತು ಉದ್ಯೋಗ ಸಹಾಯ."
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Caste Certificate"
+    ],
+    "how_to_apply": {
+      "en": "Apply through Karnataka Skill Development Corporation portal.",
+      "hi": "कर्नाटक कौशल विकास निगम पोर्टल के माध्यम से आवेदन करें।",
+      "kn": "ಕರ್ನಾಟಕ ಕೌಶಲ್ಯಾಭಿವೃದ್ಧಿ ನಿಗಮದ ಪೋರ್ಟಲ್ ಮೂಲಕ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": "https://ksdc.karnataka.gov.in",
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": [
+        "Aadhaar Card",
+        "Income Certificate",
+        "Caste Certificate"
+      ],
+      "kn": [
+        "ಆಧಾರ್ ಕಾರ್ಡ್",
+        "ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ",
+        "ಜಾತಿ ಪ್ರಮಾಣಪತ್ರ"
+      ],
+      "hi": [
+        "आधार कार्ड",
+        "आय प्रमाण पत्र",
+        "जाति प्रमाण पत्र"
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "name": {
+      "en": "Vikasana-Nava Scheme (Urban Development)",
+      "hi": "विकासना-नव योजना (शहरी विकास)",
+      "kn": "ವಿಕಾಸನ-ನವ ಯೋಜನೆ (ನಗರಾಭಿವೃದ್ಧಿ)"
+    },
+    "eligibility": {
+      "age_range": [
+        21,
+        65
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "caste": [
+        "All"
+      ],
+      "income_limit": 300000,
+      "occupation": [
+        "urban_poor"
+      ],
+      "location": [
+        "Urban",
+        "Slums"
+      ]
+    },
+    "description": {
+      "en": "Grants and support for urban poor and slum dwellers for infrastructure and skill programs.",
+      "hi": "शहरी गरीबों और झुग्गीवासियों को बुनियादी ढांचे और कौशल कार्यक्रमों के लिए सहायता।",
+      "kn": "ನಗರ ಬಡವರು ಮತ್ತು ಜೋಪಡಿ ನಿವಾಸಿಗಳಿಗೆ ಮೂಲಸೌಕರ್ಯ ಮತ್ತು ಕೌಶಲ್ಯ ಯೋಜನೆಗಳು."
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Urban ID/Slum Domicile Certificate"
+    ],
+    "how_to_apply": {
+      "en": "Apply via ULB or Municipal portal.",
+      "hi": "यूएलबी या नगरपालिका पोर्टल के माध्यम से आवेदन करें।",
+      "kn": "ನಗರ ಸ್ಥಳೀಯ ಸಂಸ್ಥೆ ಅಥವಾ ಪಾಲಿಕೆಯ ಪೋರ್ಟಲ್ ಮೂಲಕ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": "https://ulb.karnataka.gov.in",
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": [
+        "Aadhaar Card",
+        "Urban ID/Slum Domicile Certificate"
+      ],
+      "kn": [
+        "ಆಧಾರ್ ಕಾರ್ಡ್",
+        "ನಗರ ಐಡಿ/ಜೋಪಡಿ ನಿವಾಸಿ ಪ್ರಮಾಣಪತ್ರ"
+      ],
+      "hi": [
+        "आधार कार्ड",
+        "शहरी आईडी/झुग्गी निवास प्रमाण पत्र"
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "name": {
+      "en": "Amrutha Grama Yojana",
+      "hi": "अमृता ग्राम योजना",
+      "kn": "ಅಮೃತ ಗ್ರಾಮ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        0,
+        99
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "caste": [
+        "All"
+      ],
+      "income_limit": null,
+      "occupation": [
+        "Any"
+      ],
+      "location": [
+        "Rural"
+      ]
+    },
+    "description": {
+      "en": "Comprehensive rural infrastructure and community development initiative.",
+      "hi": "समग्र ग्रामीण बुनियादी ढांचे और समुदाय विकास पहल।",
+      "kn": "ಸಮಗ್ರ ಗ್ರಾಮೀಣ ಮೂಲಸೌಕರ್ಯ ಮತ್ತು ಸಮುದಾಯ ಅಭಿವೃದ್ಧಿ ಯೋಜನೆ."
+    },
+    "documents_required": [
+      "Village ID Proof",
+      "Gram Panchayat Certificate"
+    ],
+    "how_to_apply": {
+      "en": "Apply through Gram Panchayat offices.",
+      "hi": "ग्राम पंचायत कार्यालयों के माध्यम से आवेदन करें।",
+      "kn": "ಗ್ರಾಮ ಪಂಚಾಯತ್ ಕಚೇರಿಗಳ ಮೂಲಕ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": "https://rdpr.karnataka.gov.in",
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": [
+        "Village ID Proof",
+        "Gram Panchayat Certificate"
+      ],
+      "kn": [
+        "ಗ್ರಾಮ ಐಡಿ ಸಾಬೀತು",
+        "ಗ್ರಾಮ ಪಂಚಾಯತ್ ಪ್ರಮಾಣಪತ್ರ"
+      ],
+      "hi": [
+        "ग्राम आईडी प्रमाण",
+        "ग्राम पंचायत प्रमाण पत्र"
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "name": {
+      "en": "Jaladhare Scheme",
+      "hi": "जलधारे योजना",
+      "kn": "ಜಲಧಾರೆ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        0,
+        99
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "caste": [
+        "All"
+      ],
+      "income_limit": null,
+      "occupation": [
+        "Any"
+      ],
+      "location": [
+        "Rural"
+      ]
+    },
+    "description": {
+      "en": "Aims to provide piped water supply to all rural households in Karnataka.",
+      "hi": "कर्नाटक के सभी ग्रामीण घरों में पाइप से जल आपूर्ति प्रदान करने का लक्ष्य।",
+      "kn": "ಕರ್ನಾಟಕದ ಎಲ್ಲಾ ಗ್ರಾಮೀಣ ಮನೆಗಳಿಗೆ ಪೈಪ್ ನೀರಿನ ಸರಬರಾಜು ಒದಗಿಸುವ ಉದ್ದೇಶ."
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Household ID",
+      "Property Proof"
+    ],
+    "how_to_apply": {
+      "en": "Apply at Gram Panchayat or RDPR department.",
+      "hi": "ग्राम पंचायत या आरडीपीआर विभाग में आवेदन करें।",
+      "kn": "ಗ್ರಾಮ ಪಂಚಾಯತ್ ಅಥವಾ ಗ್ರಾಮೀಣಾಭಿವೃದ್ಧಿ ಇಲಾಖೆಗಳಲ್ಲಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": "https://rdpr.karnataka.gov.in",
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": [
+        "Aadhaar Card",
+        "Household ID",
+        "Property Proof"
+      ],
+      "kn": [
+        "ಆಧಾರ್ ಕಾರ್ಡ್",
+        "ಕುಟುಂಬ ಐಡಿ",
+        "ಸ್ವತ್ತು ಸಾಬೀತು"
+      ],
+      "hi": [
+        "आधार कार्ड",
+        "परिवार आईडी",
+        "संपत्ति प्रमाण"
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "name": {
+      "en": "Vishwakarma Communities Development Scheme",
+      "hi": "विश्वकर्मा समुदाय विकास योजना",
+      "kn": "ವಿಶ್ವಕರ್ಮ ಸಮುದಾಯ ಅಭಿವೃದ್ಧಿ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        18,
+        60
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "caste": [
+        "OBC"
+      ],
+      "income_limit": 200000,
+      "occupation": [
+        "Artisan"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Promotes traditional artisan skills among Vishwakarma communities with tools and training.",
+      "hi": "विश्वकर्मा समुदायों में पारंपरिक कारीगर कौशल को उपकरण और प्रशिक्षण के साथ बढ़ावा देना।",
+      "kn": "ವಿಶ್ವಕರ್ಮ ಸಮುದಾಯಗಳಲ್ಲಿ ಪರಂಪರೆಯ ಕೌಶಲ್ಯಗಳಿಗೆ ಸಾಧನ ಮತ್ತು ತರಬೇತಿಯ ಮೂಲಕ ಉತ್ತೇಜನ."
+    },
+    "documents_required": [
+      "Caste Certificate",
+      "ID Proof",
+      "Skill Proof or Trade License"
+    ],
+    "how_to_apply": {
+      "en": "Apply via Backward Classes Welfare Department.",
+      "hi": "पिछड़ा वर्ग कल्याण विभाग के माध्यम से आवेदन करें।",
+      "kn": "ಹಿಂದುಳಿದ ವರ್ಗಗಳ ಕಲ್ಯಾಣ ಇಲಾಖೆಯ ಮೂಲಕ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": "https://bcwd.karnataka.gov.in",
+    "step2_question": {
+      "question": {
+        "en": "Do you own a traditional workshop or artisan unit?",
+        "hi": "क्या आपके पास पारंपरिक कार्यशाला या कारीगर इकाई है?",
+        "kn": "ನೀವು ಪರಂಪರೆಯ ಕಾರ್ಯಾಗಾರ ಅಥವಾ ಕೌಶಲ್ಯ ಘಟಕ ಹೊಂದಿದ್ದೀರಾ?"
+      },
+      "expected_answer": "yes"
+    },
+    "documents_required_translated": {
+      "en": [
+        "Caste Certificate",
+        "ID Proof",
+        "Skill Proof or Trade License"
+      ],
+      "kn": [
+        "ಜಾತಿ ಪ್ರಮಾಣಪತ್ರ",
+        "ಐಡಿ ಸಾಬೀತು",
+        "ಕೌಶಲ್ಯ ಸಾಬೀತು ಅಥವಾ ವ್ಯಾಪಾರ ಪರವಾನಗಿ"
+      ],
+      "hi": [
+        "जाति प्रमाण पत्र",
+        "ID Proof",
+        "Skill Proof or Trade License"
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "name": {
+      "en": "Mathru Poorna Scheme",
+      "hi": "मातृ पूर्ण योजना",
+      "kn": "ಮಾತೃ ಪೂರ್ಣ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        18,
+        45
+      ],
+      "gender": [
+        "Female"
+      ],
+      "caste": [
+        "All"
+      ],
+      "income_limit": 200000,
+      "occupation": [
+        "Any"
+      ],
+      "location": [
+        "Rural"
+      ]
+    },
+    "description": {
+      "en": "Provides hot cooked nutritious meals to pregnant and lactating women in rural areas.",
+      "hi": "गर्भवती और स्तनपान कराने वाली महिलाओं को पौष्टिक पके भोजन की सुविधा।",
+      "kn": "ಗ್ರಾಮೀಣ ಪ್ರದೇಶದ ಗರ್ಭಿಣಿಯರಿಗೆ ಮತ್ತು ತಾಯಂದಿರಿಗೆ ಪೌಷ್ಟಿಕ ಅಡುಗೆ ಆಹಾರ ಒದಗಿಸುವ ಯೋಜನೆ."
+    },
+    "documents_required": [
+      "Mother ID/Health Card",
+      "Pregnancy Certificate",
+      "Aadhaar"
+    ],
+    "how_to_apply": {
+      "en": "Register at local Anganwadi center.",
+      "hi": "स्थानीय आंगनवाड़ी केंद्र पर पंजीकरण करें।",
+      "kn": "ಸ್ಥಳೀಯ ಅಂಗನವಾಡಿ ಕೇಂದ್ರದಲ್ಲಿ ನೋಂದಾಯಿಸಿ."
+    },
+    "application_link": "https://dwcd.karnataka.gov.in",
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": [
+        "Mother ID/Health Card",
+        "Pregnancy Certificate",
+        "Aadhaar"
+      ],
+      "kn": [
+        "ತಾಯಿ ಐಡಿ/ಆರೋಗ್ಯ ಕಾರ್ಡ್",
+        "ಗರ್ಭಧಾರಣಾ ಪ್ರಮಾಣಪತ್ರ",
+        "ಆಧಾರ್"
+      ],
+      "hi": [
+        "माँ आईडी/स्वास्थ्य कार्ड",
+        "गर्भावस्था प्रमाण पत्र",
+        "आधार"
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "name": {
+      "en": "Punyakoti Dattu Yojana",
+      "hi": "पुण्यकोटी दत्त योजना",
+      "kn": "ಪುನ್ಯಕೋಟಿ ದತ್ತು ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        21,
+        70
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "caste": [
+        "All"
+      ],
+      "income_limit": null,
+      "occupation": [
+        "Any"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Encourages individuals to adopt and sponsor cows in Gaushalas for their welfare.",
+      "hi": "व्यक्तियों को गौशालाओं में गायों को दत्तक लेने और उनके कल्याण के लिए प्रायोजित करने के लिए प्रोत्साहित करता है।",
+      "kn": "ಗೌಶಾಲೆಗಳಲ್ಲಿ ಗೋಗಳನ್ನು ದತ್ತು ತೆಗೆದುಕೊಳ್ಳಲು ಮತ್ತು ಪೋಷಣೆಗೆ ಪ್ರೋತ್ಸಾಹಿಸುತ್ತದೆ."
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Donation Receipt",
+      "Gaushala Registration Proof"
+    ],
+    "how_to_apply": {
+      "en": "Adopt via punyakoti.karahvs.gov.in website.",
+      "hi": "punyakoti.karahvs.gov.in वेबसाइट के माध्यम से दत्तक लें।",
+      "kn": "punyakoti.karahvs.gov.in ವೆಬ್‌ಸೈಟ್ ಮೂಲಕ ದತ್ತು ಪಡೆಯಿರಿ."
+    },
+    "application_link": "https://punyakoti.karahvs.gov.in",
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": [
+        "Aadhaar Card",
+        "Donation Receipt",
+        "Gaushala Registration Proof"
+      ],
+      "kn": [
+        "ಆಧಾರ್ ಕಾರ್ಡ್",
+        "ದಾನ ರಸೀದಿ",
+        "ಗೌಶಾಲೆ ನೋಂದಣಿ ಸಾಬೀತು"
+      ],
+      "hi": [
+        "आधार कार्ड",
+        "दान रसीद",
+        "गौशाला पंजीकरण प्रमाण"
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "name": {
+      "en": "Anila Bhagya Scheme",
+      "hi": "अनिल भाग्य योजना",
+      "kn": "ಅನಿಲ ಭಾಗ್ಯ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        18,
+        65
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "Minority"
+      ],
+      "income_limit": 200000,
+      "occupation": [
+        "Any"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Free LPG connection with stove and refill for poor households not covered under Ujjwala.",
+      "hi": "उज्ज्वला योजना के अंतर्गत न आने वाले गरीब परिवारों को मुफ्त गैस कनेक्शन।",
+      "kn": "ಉಜ್ಜ್ವಲಾ ಯೋಜನೆಯ ವ್ಯಾಪ್ತಿಗೆ ಒಳಪಡದ ಬಡ ಕುಟುಂಬಗಳಿಗೆ ಉಚಿತ ಅನಿಲ ಸಂಪರ್ಕ."
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Ration Card",
+      "Income Certificate"
+    ],
+    "how_to_apply": {
+      "en": "Apply via local gas agency or Karnataka Energy Department.",
+      "hi": "स्थानीय गैस एजेंसी या ऊर्जा विभाग से आवेदन करें।",
+      "kn": "ಸ್ಥಳೀಯ ಅನಿಲ ಏಜೆನ್ಸಿ ಅಥವಾ ಕರ್ನಾಟಕ ಇಂಧನ ಇಲಾಖೆ ಮೂಲಕ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": "https://kerc.karnataka.gov.in",
+    "step2_question": {
+      "question": {
+        "en": "Do you already have an LPG connection under any scheme?",
+        "hi": "क्या आपके पास पहले से किसी योजना के तहत गैस कनेक्शन है?",
+        "kn": "ನೀವು ಈಗಾಗಲೇ ಯಾವುದೇ ಯೋಜನೆಯ ಅಡಿಯಲ್ಲಿ ಅನಿಲ ಸಂಪರ್ಕ ಹೊಂದಿದ್ದೀರಾ?"
+      },
+      "expected_answer": "no"
+    },
+    "documents_required_translated": {
+      "en": [
+        "Aadhaar Card",
+        "Ration Card",
+        "Income Certificate"
+      ],
+      "kn": [
+        "ಆಧಾರ್ ಕಾರ್ಡ್",
+        "ರೇಷನ್ ಕಾರ್ಡ್",
+        "ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ"
+      ],
+      "hi": [
+        "आधार कार्ड",
+        "राशन कार्ड",
+        "आय प्रमाण पत्र"
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "name": {
+      "en": "Karnataka Santwana Scheme",
+      "hi": "कर्नाटक संत्वना योजना",
+      "kn": "ಕರ್ನಾಟಕ ಸಂತ್ವನಾ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        0,
+        99
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "caste": [
+        "All"
+      ],
+      "income_limit": null,
+      "occupation": [
+        "Any"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Provides financial assistance to accident victims for immediate medical treatment.",
+      "hi": "दुर्घटना पीड़ितों को त्वरित चिकित्सा उपचार हेतु वित्तीय सहायता।",
+      "kn": "ಅಪಘಾತ ಪೀಡಿತರಿಗೆ ತಕ್ಷಣದ ವೈದ್ಯಕೀಯ ಚಿಕಿತ್ಸೆಗಾಗಿ ಹಣಕಾಸು ಸಹಾಯ ಒದಗಿಸುತ್ತದೆ."
+    },
+    "documents_required": [
+      "Accident Report",
+      "Aadhaar Card",
+      "Hospital Admission Proof"
+    ],
+    "how_to_apply": {
+      "en": "Hospital staff initiates the application at empaneled hospitals.",
+      "hi": "अस्पताल कर्मचारी सूचीबद्ध अस्पतालों में आवेदन प्रक्रिया शुरू करते हैं।",
+      "kn": "ಅಂಗೀಕೃತ ಆಸ್ಪತ್ರೆಗಳಲ್ಲಿ ಆಸ್ಪತ್ರೆಯ ಸಿಬ್ಬಂದಿಯೇ ಅರ್ಜಿ ಪ್ರಕ್ರಿಯೆ ಆರಂಭಿಸುತ್ತಾರೆ."
+    },
+    "application_link": "https://santwana.karnataka.gov.in",
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": [
+        "Accident Report",
+        "Aadhaar Card",
+        "Hospital Admission Proof"
+      ],
+      "kn": [
+        "ಅಪಘಾತ ವರದಿ",
+        "ಆಧಾರ್ ಕಾರ್ಡ್",
+        "ಆಸ್ಪತ್ರೆ ಪ್ರವೇಶ ಸಾಬೀತು"
+      ],
+      "hi": [
+        "दुर्घटना रिपोर्ट",
+        "आधार कार्ड",
+        "अस्पताल प्रवेश प्रमाण"
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "name": {
+      "en": "Udyogini Scheme",
+      "hi": "उद्योगिनी योजना",
+      "kn": "ಉದ್ಯೋಗಿನಿ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        18,
+        55
+      ],
+      "gender": [
+        "Female"
+      ],
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "Minority"
+      ],
+      "income_limit": 250000,
+      "occupation": [
+        "Entrepreneur"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Supports women entrepreneurs with subsidized loans to start small businesses.",
+      "hi": "महिलाओं को स्वरोजगार के लिए रियायती ऋण प्रदान करता है।",
+      "kn": "ಸ್ವಯಂ ಉದ್ಯೋಗಕ್ಕಾಗಿ ಮಹಿಳೆಯರಿಗೆ ಸಹಾಯಧನ ಸಾಲ ಒದಗಿಸುವ ಯೋಜನೆ."
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Business Plan",
+      "Caste & Income Certificates"
+    ],
+    "how_to_apply": {
+      "en": "Apply through Women & Child Welfare Department.",
+      "hi": "महिला एवं बाल कल्याण विभाग से आवेदन करें।",
+      "kn": "ಮಹಿಳಾ ಮತ್ತು ಮಕ್ಕಳ ಕಲ್ಯಾಣ ಇಲಾಖೆಯ ಮೂಲಕ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": "https://dwcd.karnataka.gov.in",
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": [
+        "Aadhaar Card",
+        "Business Plan",
+        "Caste & Income Certificates"
+      ],
+      "kn": [
+        "ಆಧಾರ್ ಕಾರ್ಡ್",
+        "ವ್ಯವಹಾರ ಯೋಜನೆ",
+        "ಜಾತಿ ಮತ್ತು ಆದಾಯ ಪ್ರಮಾಣಪತ್ರಗಳು"
+      ],
+      "hi": [
+        "आधार कार्ड",
+        "व्यापार योजना",
+        "जाति और आय प्रमाण पत्र"
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "name": {
+      "en": "Thayi Bhagya Scheme",
+      "hi": "थायी भाग्य योजना",
+      "kn": "ತಾಯಿ ಭಾಗ್ಯ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        18,
+        45
+      ],
+      "gender": [
+        "Female"
+      ],
+      "caste": [
+        "All"
+      ],
+      "income_limit": 200000,
+      "occupation": [
+        "Any"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Provides free maternity services to pregnant women across Karnataka.",
+      "hi": "गर्भवती महिलाओं को मुफ्त प्रसूति सेवाएं प्रदान करता है।",
+      "kn": "ಗರ್ಭಿಣಿಯರಿಗೆ ಉಚಿತ ಜನನ ಸೇವೆಗಳನ್ನು ಒದಗಿಸುವ ಯೋಜನೆ."
+    },
+    "documents_required": [
+      "Pregnancy Report",
+      "Aadhaar Card",
+      "Ration Card"
+    ],
+    "how_to_apply": {
+      "en": "Enroll at government hospitals or PHCs.",
+      "hi": "सरकारी अस्पतालों या प्राथमिक स्वास्थ्य केंद्रों में नामांकन करें।",
+      "kn": "ಸರ್ಕಾರಿ ಆಸ್ಪತ್ರೆಗಳು ಅಥವಾ ಪ್ರಾಥಮಿಕ ಆರೋಗ್ಯ ಕೇಂದ್ರಗಳಲ್ಲಿ ನೋಂದಾಯಿಸಿ."
+    },
+    "application_link": "https://arogya.karnataka.gov.in",
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": [
+        "Pregnancy Report",
+        "Aadhaar Card",
+        "Ration Card"
+      ],
+      "kn": [
+        "ಗರ್ಭಧಾರಣಾ ವರದಿ",
+        "ಆಧಾರ್ ಕಾರ್ಡ್",
+        "ರೇಷನ್ ಕಾರ್ಡ್"
+      ],
+      "hi": [
+        "गर्भावस्था रिपोर्ट",
+        "आधार कार्ड",
+        "राशन कार्ड"
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "name": {
+      "en": "Self Employment Scheme",
+      "hi": "स्वरोजगार योजना",
+      "kn": "ಸ್ವಯಂ ಉದ್ಯೋಗ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        18,
+        40
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "caste": [
+        "SC",
+        "ST",
+        "OBC"
+      ],
+      "income_limit": 250000,
+      "occupation": [
+        "Unemployed",
+        "Self-Employed"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Encourages youth to take up self-employment through financial and training support.",
+      "hi": "युवाओं को स्वरोजगार के लिए वित्तीय और प्रशिक्षण सहायता।",
+      "kn": "ಯುವಕರಿಗೆ ಸ್ವಯಂ ಉದ್ಯೋಗಕ್ಕಾಗಿ ಹಣಕಾಸು ಮತ್ತು ತರಬೇತಿ ಸಹಾಯ ನೀಡುತ್ತದೆ."
+    },
+    "documents_required": [
+      "Business Proposal",
+      "Aadhaar",
+      "Caste/Income Certificate"
+    ],
+    "how_to_apply": {
+      "en": "Apply via respective district industry centers.",
+      "hi": "प्रासंगिक जिला उद्योग केंद्रों के माध्यम से आवेदन करें।",
+      "kn": "ಅನುರೂಪ ಜಿಲ್ಲಾ ಕೈಗಾರಿಕಾ ಕೇಂದ್ರಗಳ ಮೂಲಕ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": "https://kmdc.karnataka.gov.in",
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": [
+        "Business Proposal",
+        "Aadhaar",
+        "Caste/Income Certificate"
+      ],
+      "kn": [
+        "ವ್ಯವಹಾರ ಪ್ರಸ್ತಾವನೆ",
+        "ಆಧಾರ್",
+        "ಜಾತಿ/ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ"
+      ],
+      "hi": [
+        "व्यापार प्रस्ताव",
+        "आधार",
+        "जाति/आय प्रमाण पत्र"
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "name": {
+      "en": "Ganga Kalyana Scheme",
+      "hi": "गंगा कल्याण योजना",
+      "kn": "ಗಂಗಾ ಕಲ್ಯಾಣ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        21,
+        60
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "caste": [
+        "SC",
+        "ST"
+      ],
+      "income_limit": 250000,
+      "occupation": [
+        "Farmer"
+      ],
+      "location": [
+        "Rural"
+      ]
+    },
+    "description": {
+      "en": "Provides irrigation facilities by drilling borewells to small/marginal farmers.",
+      "hi": "छोटे किसानों को सिंचाई सुविधाएं और बोरवेल की सहायता।",
+      "kn": "ಸಣ್ಣ ರೈತರಿಗೆ ಬೋರ್‌ವೆಲ್ ತೊಡಕುವ ಮೂಲಕ ನೀರಾವರಿ ಸೌಲಭ್ಯ ಒದಗಿಸುವ ಯೋಜನೆ."
+    },
+    "documents_required": [
+      "Land Records",
+      "Caste Certificate",
+      "Aadhaar Card"
+    ],
+    "how_to_apply": {
+      "en": "Apply at Karnataka Minorities Development Corporation portal.",
+      "hi": "कर्नाटक अल्पसंख्यक विकास निगम पोर्टल पर आवेदन करें।",
+      "kn": "ಕರ್ನಾಟಕ ಅಲ್ಪಸಂಖ್ಯಾತ ಅಭಿವೃದ್ಧಿ ನಿಗಮದ ಪೋರ್ಟಲ್ ನಲ್ಲಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": "https://kmdc.karnataka.gov.in",
+    "step2_question": {
+      "question": {
+        "en": "Do you own agricultural land without irrigation?",
+        "hi": "क्या आपके पास बिना सिंचाई वाली कृषि भूमि है?",
+        "kn": "ನಿಮ್ಮ ಬಳಿ ನೀರಾವರಿಯಿಲ್ಲದ ಕೃಷಿ ಭೂಮಿ ಇದೆಯೆ?"
+      },
+      "expected_answer": "yes"
+    },
+    "documents_required_translated": {
+      "en": [
+        "Land Records",
+        "Caste Certificate",
+        "Aadhaar Card"
+      ],
+      "kn": [
+        "ಭೂಮಿ ದಾಖಲೆಗಳು",
+        "ಜಾತಿ ಪ್ರಮಾಣಪತ್ರ",
+        "ಆಧಾರ್ ಕಾರ್ಡ್"
+      ],
+      "hi": [
+        "भूमि अभिलेख",
+        "जाति प्रमाण पत्र",
+        "आधार कार्ड"
+      ]
+    }
+  },
+  
+  {
+    "id": 32,
+    "name": {
+      "en": "Thayi Bhagya Scheme",
+      "hi": "थायी भाग्य योजना",
+      "kn": "ತಾಯಿ ಭಾಗ್ಯ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        18,
+        45
+      ],
+      "gender": [
+        "Female"
+      ],
+      "caste": [
+        "All"
+      ],
+      "income_limit": null,
+      "occupation": [
+        "Pregnant Woman"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Provides free maternity services to pregnant women across Karnataka.",
+      "hi": "गर्भवती महिलाओं को मुफ्त प्रसूति सेवाएं प्रदान करता है।",
+      "kn": "ಗರ್ಭಿಣಿಯರಿಗೆ ಉಚಿತ ಜನನ ಸೇವೆಗಳನ್ನು ಒದಗಿಸುವ ಯೋಜನೆ."
+    },
+    "documents_required": [
+      "Pregnancy Report",
+      "Aadhaar Card",
+      "Ration Card"
+    ],
+    "how_to_apply": {
+      "en": "Enroll at government hospitals or PHCs.",
+      "hi": "सरकारी अस्पतालों या प्राथमिक स्वास्थ्य केंद्रों में नामांकन करें।",
+      "kn": "ಸರ್ಕಾರಿ ಆಸ್ಪತ್ರೆಗಳು ಅಥವಾ ಪ್ರಾಥಮಿಕ ಆರೋಗ್ಯ ಕೇಂದ್ರಗಳಲ್ಲಿ ನೋಂದಾಯಿಸಿ."
+    },
+    "application_link": "https://arogya.karnataka.gov.in",
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": [
+        "Pregnancy Report",
+        "Aadhaar Card",
+        "Ration Card"
+      ],
+      "kn": [
+        "ಗರ್ಭಧಾರಣಾ ವರದಿ",
+        "ಆಧಾರ್ ಕಾರ್ಡ್",
+        "ರೇಷನ್ ಕಾರ್ಡ್"
+      ],
+      "hi": [
+        "गर्भावस्था रिपोर्ट",
+        "आधार कार्ड",
+        "राशन कार्ड"
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "name": {
+      "en": "Karnataka Self Employment Scheme",
+      "hi": "कर्नाटक स्व-रोजगार योजना",
+      "kn": "ಕನ್ನಡ ಸ್ವ-ಉದ್ಯೋಗ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        18,
+        50
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "Minority",
+        "General"
+      ],
+      "income_limit": 200000,
+      "occupation": [
+        "Unemployed",
+        "Entrepreneur",
+        "Self-Employed"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Financial aid for unemployed individuals to start small businesses or self-employment.",
+      "hi": "स्वरोजगार या लघु व्यवसाय प्रारंभ करने हेतु बेरोजगार व्यक्तियों को वित्तीय सहायता।",
+      "kn": "ಸ್ವ ಉದ್ಯೋಗ ಅಥವಾ ಸಣ್ಣ ವ್ಯಾಪಾರ ಪ್ರಾರಂಭಿಸಲು ನಿರುದ್ಯೋಗಿಗಳಿಗೆ ಆರ್ಥಿಕ ನೆರವು."
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Caste Certificate (if applicable)",
+      "Bank Account Passbook",
+      "Business Plan",
+      "Photographs",
+      "Unemployment Certificate (if applicable)",
+      "Residence Proof"
+    ],
+    "how_to_apply": {
+      "en": "Apply through Taluk/District Employment Office or online portal.",
+      "hi": "तालुक/जिला रोजगार कार्यालय या ऑनलाइन पोर्टल से आवेदन करें।",
+      "kn": "ತಾಲ್ಲೂಕು/ಜಿಲ್ಲಾ ಉದ್ಯೋಗ ಕಚೇರಿ ಅಥವಾ ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": "https://kaushalkar.com/",
+    "step2_question": {
+      "question": {
+        "en": "Are you currently unemployed and interested in starting your own business?",
+        "hi": "क्या आप वर्तमान में बेरोजगार हैं और अपना व्यवसाय शुरू करना चाहते हैं?",
+        "kn": "ನೀವು ನಿರುದ್ಯೋಗಿಯಾಗಿದ್ದೀರಾ ಮತ್ತು ಸ್ವಂತ ವ್ಯಾಪಾರ ಪ್ರಾರಂಭಿಸಲು ಇಚ್ಛಿಸುತ್ತೀರಾ?"
+      },
+      "expected_answer": "Yes"
+    },
+    "documents_required_translated": {
+      "en": [
+        "Aadhaar Card",
+        "Income Certificate",
+        "Caste Certificate (if applicable)",
+        "Bank Account Passbook",
+        "Business Plan",
+        "Photographs",
+        "Unemployment Certificate (if applicable)",
+        "Residence Proof"
+      ],
+      "kn": [
+        "ಆಧಾರ್ ಕಾರ್ಡ್",
+        "ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ",
+        "ಜಾತಿ ಪ್ರಮಾಣಪತ್ರ (ಅನ್ವಯಿಸಿದರೆ)",
+        "ಬ್ಯಾಂಕ್ ಖಾತೆ ಪಾಸ್ ಬುಕ್",
+        "ವ್ಯವಹಾರ ಯೋಜನೆ",
+        "ಫೋಟೋಗಳು",
+        "ನಿರುದ್ಯೋಗ ಪ್ರಮಾಣಪತ್ರ (ಅನ್ವಯಿಸಿದರೆ)",
+        "ವಾಸ್ತವ್ಯ ಸಾಬೀತು"
+      ],
+      "hi": [
+        "आधार कार्ड",
+        "आय प्रमाण पत्र",
+        "जाति प्रमाण पत्र (यदि लागू हो)",
+        "बैंक खाता पासबुक",
+        "व्यापार योजना",
+        "फोटोज़",
+        "बेरोजगारी प्रमाण पत्र (यदि लागू हो)",
+        "निवास प्रमाण"
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "name": {
+      "en": "Ganga Kalyana Scheme",
+      "hi": "गंगा कल्याण योजना",
+      "kn": "ಗಂಗಾ ಕಲ್ಯಾಣ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        18,
+        60
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "Minority"
+      ],
+      "income_limit": 300000,
+      "occupation": [
+        "Farmer"
+      ],
+      "location": [
+        "Rural"
+      ]
+    },
+    "description": {
+      "en": "Irrigation support for minority small/marginal farmers via borewells and pump sets.",
+      "hi": "अल्पसंख्यक लघु/सीमांत किसानों के लिए सिंचाई सहायता।",
+      "kn": "ಅಲ್ಪಸಂಖ್ಯಾತ ಸಣ್ಣ/ಸೀಮಿತ ರೈತರಿಗೆ ಬೋರ್ವೆಲ್ ಮತ್ತು ಪಂಪು ಸೆಟ್ ಮೂಲಕ ನೀರಾವರಿ ಬೆಂಬಲ."
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Caste Certificate",
+      "Land Proof (RTC)",
+      "Bank Passbook",
+      "Photographs",
+      "Land Map",
+      "Residence Proof"
+    ],
+    "how_to_apply": {
+      "en": "Apply via KMDC portal or Taluk Office.",
+      "hi": "KMDC पोर्टल या तालुक कार्यालय से आवेदन करें।",
+      "kn": "KMDC ಪೋರ್ಟಲ್ ಅಥವಾ ತಲೂಕು ಕಚೇರಿ ಮೂಲಕ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": "https://kmdc.karnataka.gov.in/",
+    "step2_question": {
+      "question": {
+        "en": "Are you a small or marginal farmer with no existing irrigation facility?",
+        "hi": "क्या आप एक लघु या सीमांत किसान हैं जिनके पास सिंचाई की सुविधा नहीं है?",
+        "kn": "ನೀವು ಸಣ್ಣ ಅಥವಾ ಸೀಮಿತ ರೈತರಾಗಿದ್ದೀರಾ ಮತ್ತು ನೀರಾವರಿ ಸೌಲಭ್ಯವಿಲ್ಲವೇ?"
+      },
+      "expected_answer": "Yes"
+    },
+    "documents_required_translated": {
+      "en": [
+        "Aadhaar Card",
+        "Income Certificate",
+        "Caste Certificate",
+        "Land Proof (RTC)",
+        "Bank Passbook",
+        "Photographs",
+        "Land Map",
+        "Residence Proof"
+      ],
+      "kn": [
+        "ಆಧಾರ್ ಕಾರ್ಡ್",
+        "ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ",
+        "ಜಾತಿ ಪ್ರಮಾಣಪತ್ರ",
+        "ಭೂಮಿ ಸಾಬೀತು (RTC)",
+        "ಬ್ಯಾಂಕ್ ಪಾಸ್ ಬುಕ್",
+        "ಫೋಟೋಗಳು",
+        "ಭೂಮಿ ನಕ್ಷೆ",
+        "ವಾಸ್ತವ್ಯ ಸಾಬೀತು"
+      ],
+      "hi": [
+        "आधार कार्ड",
+        "आय प्रमाण पत्र",
+        "जाति प्रमाण पत्र",
+        "भूमि प्रमाण (RTC)",
+        "बैंक पासबुक",
+        "फोटोज़",
+        "भूमि मानचित्र",
+        "निवास प्रमाण"
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "name": {
+      "en": "Udyogini Scheme",
+      "hi": "उद्योगिनी योजना",
+      "kn": "ಉದ್ಯೋಗಿನಿ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        18,
+        55
+      ],
+      "gender": [
+        "Female"
+      ],
+      "caste": [
+        "SC",
+        "ST",
+        "General",
+        "OBC"
+      ],
+      "income_limit": 150000,
+      "occupation": [
+        "Entrepreneur",
+        "Aspiring Business Owner"
+      ],
+      "location": [
+        "Rural",
+        "Urban",
+        "Backward Areas"
+      ]
+    },
+    "description": {
+      "en": "Financial and training support for women entrepreneurs, especially from underprivileged sections.",
+      "hi": "महिला उद्यमियों के लिए वित्तीय और प्रशिक्षण सहायता, विशेष रूप से वंचित वर्गों से।",
+      "kn": "ಹಿಂದುಳಿದ ವರ್ಗದ ಮಹಿಳಾ ಉದ್ಯಮಿಗಳಿಗೆ ಆರ್ಥಿಕ ಮತ್ತು ತರಬೇತಿ ಬೆಂಬಲ."
+    },
+    "documents_required": [
+      "Aadhaar Card or other valid ID proof",
+      "Income Certificate",
+      "Caste Certificate (if applicable)",
+      "Residence Proof",
+      "Bank Passbook Copy",
+      "Passport-size Photographs",
+      "Business Plan or Project Report",
+      "Disability Certificate (if applicable)"
+    ],
+    "how_to_apply": {
+      "en": "Apply at nearest bank or Women Development Corporation portal.",
+      "hi": "निकटतम बैंक या महिला विकास निगम पोर्टल पर आवेदन करें।",
+      "kn": "ಹತ್ತಿರದ ಬ್ಯಾಂಕ್ ಅಥವಾ ಮಹಿಳಾ ಅಭಿವೃದ್ದಿ ನಿಗಮ ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": "https://wcd.nic.in/",
+    "step2_question": {
+      "question": {
+        "en": "Are you a woman engaged or planning to engage in income-generating activity?",
+        "hi": "क्या आप आय उत्पन्न करने वाली गतिविधि में संलग्न हैं या योजना बना रही हैं?",
+        "kn": "ನೀವು ಆದಾಯ ಉತ್ಪಾದನಾ ಚಟುವಟಿಕೆಯಲ್ಲಿ ತೊಡಗಿಸಿಕೊಂಡಿದ್ದೀರಾ ಅಥವಾ ಯೋಜಿಸುತ್ತಿದ್ದೀರಾ?"
+      },
+      "expected_answer": "Yes"
+    },
+    "documents_required_translated": {
+      "en": [
+        "Aadhaar Card or other valid ID proof",
+        "Income Certificate",
+        "Caste Certificate (if applicable)",
+        "Residence Proof",
+        "Bank Passbook Copy",
+        "Passport-size Photographs",
+        "Business Plan or Project Report",
+        "Disability Certificate (if applicable)"
+      ],
+      "kn": [
+        "ಆಧಾರ್ ಕಾರ್ಡ್ ಅಥವಾ ಇತರ ಮಾನ್ಯ ಐಡಿ ಸಾಬೀತು",
+        "ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ",
+        "ಜಾತಿ ಪ್ರಮಾಣಪತ್ರ (ಅನ್ವಯಿಸಿದರೆ)",
+        "ವಾಸ್ತವ್ಯ ಸಾಬೀತು",
+        "ಬ್ಯಾಂಕ್ ಪಾಸ್ ಬುಕ್ ನಕಲು",
+        "ಪಾಸ್‌ಪೋರ್ಟ್ ಗಾತ್ರದ ಫೋಟೋಗಳು",
+        "ವ್ಯವಹಾರ ಯೋಜನೆ ಅಥವಾ ಯೋಜನಾ ವರದಿ",
+        "ಅಂಗವಿಕಲತೆ ಪ್ರಮಾಣಪತ್ರ (ಅನ್ವಯಿಸಿದರೆ)"
+      ],
+      "hi": [
+        "आधार कार्ड या अन्य मान्य आईडी प्रमाण",
+        "आय प्रमाण पत्र",
+        "जाति प्रमाण पत्र (यदि लागू हो)",
+        "निवास प्रमाण",
+        "बैंक पासबुक की प्रति",
+        "पासपोर्ट आकार के फोटो",
+        "व्यापार योजना या परियोजना रिपोर्ट",
+        "अंग विकलांगता प्रमाण पत्र (यदि लागू हो)"
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "name": {
+      "en": "Thayi Bhagya Scheme",
+      "hi": "थायी भाग्य योजना",
+      "kn": "ತಾಯಿ ಭಾಗ್ಯ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        18,
+        45
+      ],
+      "gender": [
+        "Female"
+      ],
+      "caste": [
+        "All"
+      ],
+      "income_limit": null,
+      "occupation": [
+        "Pregnant Woman"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Provides free maternity services to pregnant women across Karnataka.",
+      "hi": "गर्भवती महिलाओं को मुफ्त प्रसूति सेवाएं प्रदान करता है।",
+      "kn": "ಗರ್ಭಿಣಿಯರಿಗೆ ಉಚಿತ ಜನನ ಸೇವೆಗಳನ್ನು ಒದಗಿಸುವ ಯೋಜನೆ."
+    },
+    "documents_required": [
+      "Pregnancy Report",
+      "Aadhaar Card",
+      "Ration Card"
+    ],
+    "how_to_apply": {
+      "en": "Enroll at government hospitals or PHCs.",
+      "hi": "सरकारी अस्पतालों या प्राथमिक स्वास्थ्य केंद्रों में नामांकन करें।",
+      "kn": "ಸರ್ಕಾರಿ ಆಸ್ಪತ್ರೆಗಳು ಅಥವಾ ಪ್ರಾಥಮಿಕ ಆರೋಗ್ಯ ಕೇಂದ್ರಗಳಲ್ಲಿ ನೋಂದಾಯಿಸಿ."
+    },
+    "application_link": "https://arogya.karnataka.gov.in",
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": [
+        "Pregnancy Report",
+        "Aadhaar Card",
+        "Ration Card"
+      ],
+      "kn": [
+        "ಗರ್ಭಧಾರಣಾ ವರದಿ",
+        "ಆಧಾರ್ ಕಾರ್ಡ್",
+        "ರೇಷನ್ ಕಾರ್ಡ್"
+      ],
+      "hi": [
+        "गर्भावस्था रिपोर्ट",
+        "आधार कार्ड",
+        "राशन कार्ड"
+      ]
+    }
+  },
+
+ 
+ 
+  {
+    "id": 45,
+    "name": {
+      "en": "SC/ST Marriage Assistance Scheme",
+      "hi": "एससी/एसटी विवाह सहायता योजना",
+      "kn": "ಎಸ್‌ಸಿ/ಎಸ್‌ಟಿ ವಿವಾಹ ಸಹಾಯ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        18,
+        35
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "caste": [
+        "SC",
+        "ST"
+      ],
+      "income_limit": 250000,
+      "occupation": [
+        "Any"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Financial assistance for SC/ST couples to promote inter-caste and community marriage.",
+      "hi": "अंतर-जातीय और समुदाय विवाह को बढ़ावा देने हेतु वित्तीय सहायता।",
+      "kn": "ಅಂತರಜಾತಿ ವಿವಾಹಗಳ ಪ್ರೋತ್ಸಾಹಕ್ಕಾಗಿ ಹಣಕಾಸು ನೆರವು."
+    },
+    "documents_required": [
+      "Marriage Certificate",
+      "Caste Certificates",
+      "Income Proof",
+      "Aadhaar Cards of both partners",
+      "Bank Account Details"
+    ],
+    "how_to_apply": {
+      "en": "Apply at Social Welfare Office or Taluk Panchayat.",
+      "hi": "सामाजिक कल्याण कार्यालय या तालुक पंचायत से आवेदन करें।",
+      "kn": "ಸಾಮಾಜಿಕ ಕಲ್ಯಾಣ ಕಚೇರಿ ಅಥವಾ ತಾಲ್ಲೂಕು ಪಂಚಾಯತ್‌ನಲ್ಲಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": "https://sw.kar.nic.in",
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": [
+        "Marriage Certificate",
+        "Caste Certificates",
+        "Income Proof",
+        "Aadhaar Cards of both partners",
+        "Bank Account Details"
+      ],
+      "kn": [
+        "ವಿವಾಹ ಪ್ರಮಾಣಪತ್ರ",
+        "ಜಾತಿ ಪ್ರಮಾಣಪತ್ರಗಳು",
+        "ಆದಾಯ ಸಾಬೀತು",
+        "ಎರಡು ಪಾಲುದಾರರ ಆಧಾರ್ ಕಾರ್ಡ್‌ಗಳು",
+        "ಬ್ಯಾಂಕ್ ಖಾತೆ ವಿವರಗಳು"
+      ],
+      "hi": [
+        "विवाह प्रमाण पत्र",
+        "जाति प्रमाण पत्र",
+        "आय प्रमाण",
+        "दोनों पार्टनर्स के आधार कार्ड",
+        "बैंक खाता विवरण"
+      ]
+    }
+  },
+  {
+    "id": 46,
+    "name": {
+      "en": "Raita Vidya Nidhi Scholarship Scheme",
+      "hi": "रैता विद्या निधि छात्रवृत्ति योजना",
+      "kn": "ರೈತ ವಿದ್ಯಾ ನಿಧಿ ವಿದ್ಯಾರ್ಥಿವೇತನ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        17,
+        30
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "caste": [
+        "All"
+      ],
+      "income_limit": null,
+      "occupation": [
+        "Farmer"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Scholarships for children of registered farmers pursuing higher education.",
+      "hi": "पंजीकृत किसानों के बच्चों को उच्च शिक्षा हेतु छात्रवृत्ति।",
+      "kn": "ನೋಂದಾಯಿತ ರೈತರು ತಮ್ಮ ಮಕ್ಕಳಿಗೆ ಉನ್ನತ ಶಿಕ್ಷಣಕ್ಕಾಗಿ ವಿದ್ಯಾರ್ಥಿವೇತನ ನೀಡುವ ಯೋಜನೆ."
+    },
+    "documents_required": [
+      "Farmer ID",
+      "Student ID card",
+      "Aadhaar Card",
+      "Bank Passbook"
+    ],
+    "how_to_apply": {
+      "en": "Apply online through the Department of Agriculture Scholarship Portal.",
+      "hi": "कृषि विभाग छात्रवृत्ति पोर्टल के माध्यम से ऑनलाइन आवेदन करें।",
+      "kn": "ಕೃಷಿ ಇಲಾಖೆ ವಿದ್ಯಾರ್ಥಿವೇತನ ಪೋರ್ಟಲ್ ಮೂಲಕ ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+    },
+    "documents_required_translated": {
+      "en": [
+        "Aadhaar Card",
+        "Pregnancy Registration",
+        "BPL/Ration Card",
+        "Bank Passbook",
+        "Mother’s Health Card"
+      ],
+      "kn": [
+        "ಆಧಾರ್ ಕಾರ್ಡ್",
+        "ಗರ್ಭಧಾರಣಾ ನೋಂದಣಿ",
+        "ಬಿಪಿಎಲ್/ರೇಷನ್ ಕಾರ್ಡ್",
+        "ಬ್ಯಾಂಕ್ ಪಾಸ್ ಬುಕ್",
+        "ತಾಯಿ ಆರೋಗ್ಯ ಕಾರ್ಡ್"
+      ],
+      "hi": [
+        "आधार कार्ड",
+        "गर्भावस्था पंजीकरण",
+        "बीपीएल/राशन कार्ड",
+        "बैंक पासबुक",
+        "माँ का स्वास्थ्य कार्ड"
+      ]
+    }
+  },
+  
+  
+  {
+    "id": 44,
+    "name": {
+      "en": "Thayi Bhagya Plus Scheme",
+      "hi": "ताई भाग्य प्लस योजना",
+      "kn": "ತಾಯಿ ಭಾಗ್ಯ ಪ್ಲಸ್ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        18,
+        45
+      ],
+      "gender": [
+        "Female"
+      ],
+      "caste": [
+        "All"
+      ],
+      "income_limit": 200000,
+      "occupation": [
+        "Pregnant Woman"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Additional maternity incentives including transport, delivery kit, and nutrition allowance.",
+      "hi": "मातृत्व के लिए परिवहन, डिलीवरी किट और पोषण भत्ते जैसी अतिरिक्त सुविधाएं।",
+      "kn": "ತಾಯಿ ಭಾಗ್ಯ ಪ್ಲಸ್ ಯೋಜನೆಯಡಿ ಸಾರಿಗೆ, ಕಿಟ್ ಮತ್ತು ಪೋಷಣಾ ಭತ್ಯೆ ಸೇರಿದಂತೆ ಹೆಚ್ಚುವರಿ ಸೌಲಭ್ಯಗಳು."
+    },
+    "documents_required": [
+      "Pregnancy Report",
+      "Aadhaar",
+      "Ration Card",
+      "Bank Account",
+      "Delivery Proof (later)"
+    ],
+    "how_to_apply": {
+      "en": "Enroll at PHC or through ASHA worker.",
+      "hi": "पीएचसी या आशा कार्यकर्ता के माध्यम से नामांकन करें।",
+      "kn": "ಪಿಎಚ್ಸಿ ಅಥವಾ ಆಶಾ ಕಾರ್ಯಕರ್ತೆ ಮೂಲಕ ನೋಂದಾಯಿಸಿ."
+    },
+    "application_link": "https://karunadu.karnataka.gov.in/hfw",
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": [
+        "Pregnancy Report",
+        "Aadhaar",
+        "Ration Card",
+        "Bank Account",
+        "Delivery Proof (later)"
+      ],
+      "kn": [
+        "ಗರ್ಭಧಾರಣಾ ವರದಿ",
+        "ಆಧಾರ್",
+        "ರೇಷನ್ ಕಾರ್ಡ್",
+        "ಬ್ಯಾಂಕ್ ಖಾತೆ",
+        "ಡೆಲಿವರಿ ಸಾಬೀತು (ಮರುಕತ)"
+      ],
+      "hi": [
+        "गर्भावस्था रिपोर्ट",
+        "आधार",
+        "राशन कार्ड",
+        "बैंक खाता",
+        "डिलीवरी प्रमाण (बाद में)"
+      ]
+    } 
+  },
+  {
+    "id": 45,
+    "name": {
+      "en": "SC/ST Marriage Assistance Scheme",
+      "hi": "एससी/एसटी विवाह सहायता योजना",
+      "kn": "ಎಸ್‌ಸಿ/ಎಸ್‌ಟಿ ವಿವಾಹ ಸಹಾಯ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        18,
+        35
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "caste": [
+        "SC",
+        "ST"
+      ],
+      "income_limit": 250000,
+      "occupation": [
+        "Any"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Financial assistance for SC/ST couples to promote inter-caste and community marriage.",
+      "hi": "अंतर-जातीय और समुदाय विवाह को बढ़ावा देने हेतु वित्तीय सहायता।",
+      "kn": "ಅಂತರಜಾತಿ ವಿವಾಹಗಳ ಪ್ರೋತ್ಸಾಹಕ್ಕಾಗಿ ಹಣಕಾಸು ನೆರವು."
+    },
+    "documents_required": [
+      "Marriage Certificate",
+      "Caste Certificates",
+      "Income Proof",
+      "Aadhaar Cards of both partners",
+      "Bank Account Details"
+    ],
+    "how_to_apply": {
+      "en": "Apply at Social Welfare Office or Taluk Panchayat.",
+      "hi": "सामाजिक कल्याण कार्यालय या तालुक पंचायत से आवेदन करें।",
+      "kn": "ಸಾಮಾಜಿಕ ಕಲ್ಯಾಣ ಕಚೇರಿ ಅಥವಾ ತಾಲ್ಲೂಕು ಪಂಚಾಯತ್‌ನಲ್ಲಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": "https://sw.kar.nic.in",
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": [
+        "Marriage Certificate",
+        "Caste Certificates",
+        "Income Proof",
+        "Aadhaar Cards of both partners",
+        "Bank Account Details"
+      ],
+      "kn": [
+        "ವಿವಾಹ ಪ್ರಮಾಣಪತ್ರ",
+        "ಜಾತಿ ಪ್ರಮಾಣಪತ್ರಗಳು",
+        "ಆದಾಯ ಸಾಬೀತು",
+        "ಎರಡು ಪಾಲುದಾರರ ಆಧಾರ್ ಕಾರ್ಡ್‌ಗಳು",
+        "ಬ್ಯಾಂಕ್ ಖಾತೆ ವಿವರಗಳು"
+      ],
+      "hi": [
+        "विवाह प्रमाण पत्र",
+        "जाति प्रमाण पत्र",
+        "आय प्रमाण",
+        "दोनों पार्टनर्स के आधार कार्ड",
+        "बैंक खाता विवरण"
+      ]
+    }
+  },
+  
+  {
+    "id": 47,
+    "name": {
+      "en": "SC/ST Entrepreneur Support Scheme",
+      "hi": "अनुसूचित जाति/जनजाति उद्यमी सहायता योजना",
+      "kn": "ಅನುವಂಶಿಕ ವರ್ಗ ಉದ್ಯಮಿಗಳಿಗೆ ಬೆಂಬಲ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        18,
+        45
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "caste": [
+        "SC",
+        "ST"
+      ],
+      "income_limit": 250000,
+      "occupation": [
+        "Entrepreneur"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Financial assistance for SC/ST individuals to start businesses.",
+      "hi": "एससी/एसटी व्यक्तियों को व्यवसाय शुरू करने के लिए वित्तीय सहायता।",
+      "kn": "ಎಸ್‌ಸಿ/ಎಸ್‌ಟಿ ಉದ್ಯಮಿಗಳಿಗೆ ವ್ಯಾಪಾರ ಪ್ರಾರಂಭಿಸಲು ಹಣಕಾಸು ಸಹಾಯ."
+    },
+    "documents_required": [
+      "Caste Certificate",
+      "Income Certificate",
+      "Business Proposal",
+      "Aadhaar Card"
+    ],
+    "how_to_apply": {
+      "en": "Submit application through District Social Welfare Office.",
+      "hi": "जिला सामाजिक कल्याण कार्यालय के माध्यम से आवेदन जमा करें।",
+      "kn": "ಜಿಲ್ಲಾ ಸಾಮಾಜಿಕ ಕಲ್ಯಾಣ ಕಚೇರಿಯಲ್ಲಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": "N/A",
+    "step2_question": {
+      "question": {
+        "en": "Do you have a business proposal ready?",
+        "hi": "क्या आपके पास एक व्यवसाय योजना तैयार है?",
+        "kn": "ನಿಮ್ಮ ಬಳಿ ವ್ಯಾಪಾರದ ಪ್ರಸ್ತಾವನೆಯಿದೆಯೆ?"
+      },
+      "expected_answer": "Yes"
+    },
+    "documents_required_translated": {
+      "en": [
+        "Caste Certificate",
+        "Income Certificate",
+        "Business Proposal",
+        "Aadhaar Card"
+      ],
+      "kn": [
+        "ಜಾತಿ ಪ್ರಮಾಣಪತ್ರ",
+        "ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ",
+        "ವ್ಯವಹಾರ ಪ್ರಸ್ತಾವನೆ",
+        "ಆಧಾರ್ ಕಾರ್ಡ್"
+      ],
+      "hi": [
+        "जाति प्रमाण पत्र",
+        "आय प्रमाण पत्र",
+        "व्यापार प्रस्ताव",
+        "आधार कार्ड"
+      ]
+    }
+  },
+  {
+    "id": 48,
+    "name": {
+      "en": "Shrama Samarthya Scheme",
+      "hi": "श्रम सामर्थ्य योजना",
+      "kn": "ಶ್ರಮ ಸಾಮರ್ಥ್ಯ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        18,
+        60
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "caste": [
+        "All"
+      ],
+      "income_limit": 250000,
+      "occupation": [
+        "Construction Worker",
+        "Laborer"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Skill development and social security support for unorganized sector workers.",
+      "hi": "असंगठित क्षेत्र के श्रमिकों के लिए कौशल विकास और सामाजिक सुरक्षा सहायता।",
+      "kn": "ಅಸಂಗಟಿತ ವಲಯದ ಕಾರ್ಮಿಕರಿಗೆ ಕೌಶಲ್ಯಾಭಿವೃದ್ಧಿ ಮತ್ತು ಸಾಮಾಜಿಕ ಭದ್ರತೆ."
+    },
+    "documents_required": [
+      "Labour Registration",
+      "Aadhaar Card",
+      "Proof of Work",
+      "Bank Details"
+    ],
+    "how_to_apply": {
+      "en": "Apply through Karnataka Building and Other Construction Workers Board.",
+      "hi": "कर्नाटक भवन और अन्य निर्माण श्रमिक बोर्ड के माध्यम से आवेदन करें।",
+      "kn": "ಕರ್ನಾಟಕ ಕಟ್ಟಡ ಮತ್ತು ಇತರೆ ನಿರ್ಮಾಣ ಕಾರ್ಮಿಕರ ಮಂಡಳಿಯಲ್ಲಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": "https://kbocwwb.karnataka.gov.in",
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": [
+        "Labour Registration",
+        "Aadhaar Card",
+        "Proof of Work",
+        "Bank Details"
+      ],
+      "kn": [
+        "ಕಾರ್ಮಿಕ ನೋಂದಣಿ",
+        "ಆಧಾರ್ ಕಾರ್ಡ್",
+        "ಕೆಲಸದ ಸಾಬೀತು",
+        "ಬ್ಯಾಂಕ್ ವಿವರಗಳು"
+      ],
+      "hi": [
+        "श्रम पंजीकरण",
+        "आधार कार्ड",
+        "कार्य का प्रमाण",
+        "बैंक विवरण"
+      ]
+    }
+  },
+  {
+    "id": 49,
+    "name": {
+      "en": "Yuva Nidhi Scheme",
+      "hi": "युवा निधि योजना",
+      "kn": "ಯುವ ನಿಧಿ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        21,
+        35
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "caste": [
+        "All"
+      ],
+      "income_limit": null,
+      "occupation": [
+        "Graduate",
+        "Diploma Holder",
+        "Unemployed"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Monthly allowance to unemployed graduates and diploma holders.",
+      "hi": "बेरोजगार स्नातकों और डिप्लोमा धारकों को मासिक भत्ता।",
+      "kn": "ನಿರುದ್ಯೋಗಿ ಪದವಿ ಮತ್ತು ಡಿಪ್ಲೊಮಾ ಹುದ್ದೆದಾರರಿಗೆ ಮಾಸಿಕ ಭತ್ಯೆ."
+    },
+    "documents_required": [
+      "Degree/Diploma Certificate",
+      "Unemployment Proof",
+      "Aadhaar Card",
+      "Bank Passbook"
+    ],
+    "how_to_apply": {
+      "en": "Apply via Seva Sindhu portal.",
+      "hi": "सेवा सिंधु पोर्टल के माध्यम से आवेदन करें।",
+      "kn": "ಸೇವಾ ಸಿಂಧು ಪೋರ್ಟಲ್ ಮೂಲಕ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": "https://sevasindhu.karnataka.gov.in",
+    "step2_question": {
+      "question": {
+        "en": "Are you currently not employed or self-employed?",
+        "hi": "क्या आप वर्तमान में बेरोजगार हैं?",
+        "kn": "ನೀವು ಪ್ರಸ್ತುತ ನಿರುದ್ಯೋಗಿಯಾಗಿದ್ದೀರಾ?"
+      },
+      "expected_answer": "Yes"
+    },
+    "documents_required_translated": {
+      "en": [
+        "Degree/Diploma Certificate",
+        "Unemployment Proof",
+        "Aadhaar Card",
+        "Bank Passbook"
+      ],
+      "kn": [
+        "ಪದವಿ/ಡಿಪ್ಲೊಮಾ ಪ್ರಮಾಣಪತ್ರ",
+        "ನಿರುದ್ಯೋಗ ಸಾಬೀತು",
+        "ಆಧಾರ್ ಕಾರ್ಡ್",
+        "ಬ್ಯಾಂಕ್ ಪಾಸ್ ಬುಕ್"
+      ],
+      "hi": [
+        "डिग्री/डिप्लोमा प्रमाणपत्र",
+        "बेरोजगारी प्रमाण",
+        "आधार कार्ड",
+        "बैंक पासबुक"
+      ]
+    }
+  },
+  {
+    "id": 50,
+    "name": {
+      "en": "Shrama Shakthi Yojane",
+      "hi": "श्रम शक्ति योजना",
+      "kn": "ಶ್ರಮ ಶಕ್ತಿ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        18,
+        55
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "caste": [
+        "All"
+      ],
+      "income_limit": 200000,
+      "occupation": [
+        "Unorganized Worker",
+        "laborer",
+        "Daily Wage"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Micro-loans and self-help support for low-income laborers.",
+      "hi": "निम्न-आय श्रमिकों के लिए सूक्ष्म ऋण और स्वयं सहायता सहायता।",
+      "kn": "ಕಡಿಮೆ ಆದಾಯದ ಕಾರ್ಮಿಕರಿಗೆ ಸಣ್ಣ ಸಾಲ ಮತ್ತು ಸ್ವಸಹಾಯ ಬೆಂಬಲ."
+    },
+    "documents_required": [
+      "Labour Card or Work Certificate",
+      "Aadhaar Card",
+      "Bank Details",
+      "Income Certificate"
+    ],
+    "how_to_apply": {
+      "en": "Apply at Labour Department or SHG Federation.",
+      "hi": "श्रम विभाग या स्वयं सहायता समूह महासंघ में आवेदन करें।",
+      "kn": "ಕಾರ್ಮಿಕ ಇಲಾಖೆ ಅಥವಾ ಸ್ವಸಹಾಯ ಸಂಘಗಳ ಒಕ್ಕೂಟದಲ್ಲಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": "https://labour.karnataka.gov.in",
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": [
+        "Labour Card or Work Certificate",
+        "Aadhaar Card",
+        "Bank Details",
+        "Income Certificate"
+      ],
+      "kn": [
+        "ಕಾರ್ಮಿಕ ಕಾರ್ಡ್ ಅಥವಾ ಕೆಲಸದ ಪ್ರಮಾಣಪತ್ರ",
+        "ಆಧಾರ್ ಕಾರ್ಡ್",
+        "ಬ್ಯಾಂಕ್ ವಿವರಗಳು",
+        "ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ"
+      ],
+      "hi": [
+        "श्रम कार्ड या कार्य प्रमाण पत्र",
+        "आधार कार्ड",
+        "बैंक विवरण",
+        "आय प्रमाण पत्र"
+      ]
+    }
+  },
+  {
+    "id": 51,
+    "name": {
+      "en": "Maitri Scheme",
+      "hi": "मैत्री योजना",
+      "kn": "ಮೈತ್ರಿ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        18,
+        40
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "caste": [
+        "Transgender"
+      ],
+      "income_limit": 250000,
+      "occupation": [
+        "Unemployed",
+        "Entrepreneur"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Financial assistance and loan support for transgender individuals to start businesses.",
+      "hi": "ट्रांसजेंडर व्यक्तियों के लिए व्यापार शुरू करने हेतु वित्तीय सहायता और ऋण।",
+      "kn": "ತ್ರಾನ್‌ಸ್‌ಜೆಂಡರ್ ವ್ಯಕ್ತಿಗಳಿಗೆ ಉದ್ಯಮ ಪ್ರಾರಂಭಿಸಲು ಹಣಕಾಸು ಸಹಾಯ ಮತ್ತು ಸಾಲ ಸೌಲಭ್ಯ."
+    },
+    "documents_required": [
+      "Transgender Identity Proof",
+      "Aadhaar Card",
+      "Income Certificate",
+      "Bank Passbook",
+      "Business Plan"
+    ],
+    "how_to_apply": {
+      "en": "Apply through Women and Child Development Department portal.",
+      "hi": "महिला और बाल विकास विभाग की वेबसाइट से आवेदन करें।",
+      "kn": "ಮಹಿಳಾ ಮತ್ತು ಮಕ್ಕಳ ಅಭಿವೃದ್ಧಿ ಇಲಾಖೆಯ ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": "https://dwcd.karnataka.gov.in",
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": [
+        "Transgender Identity Proof",
+        "Aadhaar Card",
+        "Income Certificate",
+        "Bank Passbook",
+        "Business Plan"
+      ],
+      "kn": [
+        "Transgender Identity Proof",
+        "Aadhaar Card",
+        "ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ",
+        "ಬ್ಯಾಂಕ್ ಪಾಸ್ ಬುಕ್",
+        "Business Plan"
+      ],
+      "hi": [
+        "Transgender Identity Proof",
+        "Aadhaar Card",
+        "आय प्रमाण पत्र",
+        "बैंक पासबुक",
+        "Business Plan"
+      ]
+    }
+  },
+  {
+    "id": 52,
+    "name": {
+      "en": "Saviruchi Mobile Canteen Scheme",
+      "hi": "सविरुचि मोबाइल कैंटीन योजना",
+      "kn": "ಸವಿರುಚಿ ಮೊಬೈಲ್ ಕ್ಯಾಂಟೀನ್ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        21,
+        55
+      ],
+      "gender": [
+        "Female"
+      ],
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "Minority"
+      ],
+      "income_limit": 200000,
+      "occupation": [
+        "Self-Employed",
+        "Home Cook"
+      ],
+      "location": [
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Provides vehicles and setup support to women for running mobile canteens.",
+      "hi": "महिलाओं को मोबाइल कैंटीन चलाने हेतु वाहन और स्टॉल समर्थन।",
+      "kn": "ಮಹಿಳೆಯರಿಗೆ ಮೊಬೈಲ್ ಕ್ಯಾಂಟೀನ್ ನಡಿಸಲು ವಾಹನ ಮತ್ತು ಸೌಕರ್ಯಗಳ ಸಹಾಯ."
+    },
+    "documents_required": [
+      "Aadhaar",
+      "Caste Certificate",
+      "Income Certificate",
+      "Proposal or Cooking Experience Proof",
+      "Bank Details"
+    ],
+    "how_to_apply": {
+      "en": "Apply through Karnataka Women Development Corporation (KWDC).",
+      "hi": "कर्नाटक महिला विकास निगम (KWDC) से आवेदन करें।",
+      "kn": "ಕರ್ನಾಟಕ ಮಹಿಳಾ ಅಭಿವೃದ್ಧಿ ನಿಗಮದ (KWDC) ಮೂಲಕ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": "https://dwcd.karnataka.gov.in",
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": [
+        "Aadhaar",
+        "Caste Certificate",
+        "Income Certificate",
+        "Proposal or Cooking Experience Proof",
+        "Bank Details"
+      ],
+      "kn": [
+        "ಆಧಾರ್",
+        "ಜಾತಿ ಪ್ರಮಾಣಪತ್ರ",
+        "ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ",
+        "ಪ್ರಸ್ತಾವನೆ ಅಥವಾ ಅಡುಗೆ ಅನುಭವ ಸಾಬೀತು",
+        "ಬ್ಯಾಂಕ್ ವಿವರಗಳು"
+      ],
+      "hi": [
+        "आधार",
+        "जाति प्रमाण पत्र",
+        "आय प्रमाण पत्र",
+        "प्रस्ताव या खाना पकाने का अनुभव प्रमाण",
+        "बैंक विवरण"
+      ]
+    }
+  },
+  {
+    "id": 53,
+    "name": {
+      "en": "Namma Clinics Scheme",
+      "hi": "नम्मा क्लीनिक योजना",
+      "kn": "ನಮ್ಮ ಕ್ಲಿನಿಕ್ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        0,
+        99
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "caste": [
+        "All"
+      ],
+      "income_limit": null,
+      "occupation": [
+        "Any"
+      ],
+      "location": [
+        "Urban",
+        "Slums"
+      ]
+    },
+    "description": {
+      "en": "Urban health clinics offering free consultation, medicines, and basic diagnostics.",
+      "hi": "निःशुल्क परामर्श, दवाएं और बुनियादी जांच प्रदान करने वाली शहरी स्वास्थ्य क्लीनिक।",
+      "kn": "ಉಚಿತ ಸಲಹೆ, ಔಷಧಿ ಮತ್ತು ತಪಾಸಣೆಯೊಂದಿಗೆ ನಗರ ಆರೋಗ್ಯ ಕ್ಲಿನಿಕ್‌ಗಳು."
+    },
+    "documents_required": [
+      "Aadhaar Card (for record)",
+      "Residential Address (Urban Proof)"
+    ],
+    "how_to_apply": {
+      "en": "No application needed, walk-in facility available.",
+      "hi": "कोई आवेदन आवश्यक नहीं, सीधे जाकर सेवा लें।",
+      "kn": "ಅರ್ಜಿಯ ಅಗತ್ಯವಿಲ್ಲ, ನೇರವಾಗಿ ಹೋಗಿ ಸೇವೆ ಪಡೆಯಬಹುದು."
+    },
+    "application_link": null,
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": [
+        "Aadhaar Card (for record)",
+        "Residential Address (Urban Proof)"
+      ],
+      "kn": [
+        "ಆಧಾರ್ ಕಾರ್ಡ್ (ರಿಕಾರ್ಡ್‌ಗಾಗಿ)",
+        "ನಿವಾಸ ವಿಳಾಸ (ನಗರ ಸಾಬೀತು)"
+      ],
+      "hi": [
+        "आधार कार्ड (रिकॉर्ड के लिए)",
+        "निवास पता (शहरी प्रमाण)"
+      ]
+    } 
+  },
+  {
+    "id": 54,
+    "name": {
+      "en": "Janaspandana Public Grievance Scheme",
+      "hi": "जनस्पंदन सार्वजनिक शिकायत योजना",
+      "kn": "ಜನಸ್ಪಂದನ ಸಾರ್ವಜನಿಕ ದೂರು ಪರಿಹಾರ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        18,
+        99
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "caste": [
+        "All"
+      ],
+      "income_limit": null,
+      "occupation": [
+        "Any"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Platform for citizens to file complaints and track resolution by government departments.",
+      "hi": "नागरिकों के लिए सरकारी विभागों में शिकायत दर्ज करने और समाधान ट्रैक करने का मंच।",
+      "kn": "ನಾಗರಿಕರು ದೂರು ಸಲ್ಲಿಸಲು ಮತ್ತು ಪರಿಹಾರವನ್ನು ಕಣ್ತುಂಬಿಕೊಳ್ಳಲು ಅವಕಾಶ ನೀಡುವ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್."
+    },
+    "documents_required": [
+      "Aadhaar",
+      "Complaint Details",
+      "Optional Document Proof"
+    ],
+    "how_to_apply": {
+      "en": "Submit online via Janaspandana portal or mobile app.",
+      "hi": "जनस्पंदन पोर्टल या मोबाइल ऐप के माध्यम से ऑनलाइन शिकायत दर्ज करें।",
+      "kn": "ಜನಸ್ಪಂದನ ಪೋರ್ಟಲ್ ಅಥವಾ ಮೊಬೈಲ್ ಆ್ಯಪ್‌ನ ಮೂಲಕ ದೂರು ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": "https://janaspandana.karnataka.gov.in",
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": [
+        "Aadhaar",
+        "Complaint Details",
+        "Optional Document Proof"
+      ],
+      "kn": [
+        "ಆಧಾರ್",
+        "ದೂರು ವಿವರಗಳು",
+        "ಐಚ್ಛಿಕ ದಾಖಲೆ ಸಾಬೀತು"
+      ],
+      "hi": [
+        "आधार",
+        "शिकायत विवरण",
+        "वैकल्पिक दस्तावेज़ प्रमाण"
+      ]
+    }
+  },
+  {
+    "id": 55,
+    "name": {
+      "en": "Ksheera Bhagya Scheme",
+      "hi": "क्षीर भाग्य योजना",
+      "kn": "ಕ್ಷೀರ ಭಾಗ್ಯ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        3,
+        16
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "caste": [
+        "All"
+      ],
+      "income_limit": null,
+      "occupation": [
+        "Student"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Provides free milk to children studying in government and aided schools.",
+      "hi": "सरकारी और सहायता प्राप्त स्कूलों के बच्चों को मुफ्त दूध।",
+      "kn": "ಸರಕಾರಿ ಮತ್ತು ಸಹಾಯಧನ ಪಡೆದ ಶಾಲೆಯ ಮಕ್ಕಳಿಗೆ ಉಚಿತ ಹಾಲು ನೀಡುವ ಯೋಜನೆ."
+    },
+    "documents_required": [
+      "School Enrollment ID",
+      "Aadhaar Card (optional)"
+    ],
+    "how_to_apply": {
+      "en": "No application needed, distributed through schools.",
+      "hi": "कोई आवेदन आवश्यक नहीं, स्कूलों के माध्यम से वितरण।",
+      "kn": "ಅರ್ಜಿಯ ಅಗತ್ಯವಿಲ್ಲ, ಶಾಲೆಗಳ ಮೂಲಕ ಹಂಚಿಕೆ ಮಾಡಲಾಗುತ್ತದೆ."
+    },
+    "application_link": null,
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": [
+        "School Enrollment ID",
+        "Aadhaar Card (optional)"
+      ],
+      "kn": [
+        "ಶಾಲಾ ದಾಖಲಾತಿ ಐಡಿ",
+        "ಆಧಾರ್ ಕಾರ್ಡ್ (ಐಚ್ಛಿಕ)"
+      ],
+      "hi": [
+        "स्कूल नामांकन आईडी",
+        "आधार कार्ड (वैकल्पिक)"
+      ]
+       
+    }
+  },
+  {
+    "id": 56,
+    "name": {
+      "en": "Mathrushree Scheme",
+      "hi": "मातृश्री योजना",
+      "kn": "ಮಾತೃಶ್ರೀ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        18,
+        35
+      ],
+      "gender": [
+        "Female"
+      ],
+      "caste": [
+        "All"
+      ],
+      "income_limit": 200000,
+      "occupation": [
+        "Pregnant Woman"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Cash incentive of ₹6,000 to BPL pregnant women for nutrition and healthcare.",
+      "hi": "बीपीएल गर्भवती महिलाओं को पोषण और स्वास्थ्य देखभाल हेतु ₹6000 की नकद सहायता।",
+      "kn": "ಬಿಪಿಎಲ್ ಗರ್ಭಿಣಿಯರಿಗೆ ಪೋಷಣೆಯು ಮತ್ತು ಆರೈಕೆಗಾಗಿ ₹6000 ನಗದು ಸಹಾಯ."
+    },
+    "documents_required": [
+      "Pregnancy Certificate",
+      "BPL Card",
+      "Aadhaar Card",
+      "Bank Account"
+    ],
+    "how_to_apply": {
+      "en": "Apply at PHC or through ASHA worker.",
+      "hi": "पीएचसी या आशा कार्यकर्ता के माध्यम से आवेदन करें।",
+      "kn": "ಪಿಎಚ್ಸಿ ಅಥವಾ ಆಶಾ ಕಾರ್ಯಕರ್ತೆ ಮೂಲಕ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": "https://karunadu.karnataka.gov.in/hfw",
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": [
+        "Pregnancy Certificate",
+        "BPL Card",
+        "Aadhaar Card",
+        "Bank Account"
+      ],
+      "kn": [
+        "ಗರ್ಭಧಾರಣಾ ಪ್ರಮಾಣಪತ್ರ",
+        "ಬಿಪಿಎಲ್ ಕಾರ್ಡ್",
+        "ಆಧಾರ್ ಕಾರ್ಡ್",
+        "ಬ್ಯಾಂಕ್ ಖಾತೆ"
+      ],
+      "hi": [
+        "गर्भावस्था प्रमाण पत्र",
+        "बीपीएल कार्ड",
+        "आधार कार्ड",
+        "बैंक खाता"
+      ]
+    }
+  },
+  {
+    "id": 57,
+    "name": {
+      "en": "Unnati Scheme",
+      "hi": "उन्नति योजना",
+      "kn": "ಉನ್ನತಿ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        21,
+        45
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "caste": [
+        "SC",
+        "ST"
+      ],
+      "income_limit": 300000,
+      "occupation": [
+        "Self-Employed",
+        "Entrepreneur"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Provides capital subsidy and training to SC/ST entrepreneurs to enhance income.",
+      "hi": "एससी/एसटी उद्यमियों को पूंजी सब्सिडी और प्रशिक्षण प्रदान करता है।",
+      "kn": "ಎಸ್‌ಸಿ/ಎಸ್‌ಟಿ ಉದ್ಯಮಿಗಳಿಗೆ ಬಂಡವಾಳ ಸಹಾಯಧನ ಮತ್ತು ತರಬೇತಿಯನ್ನು ಒದಗಿಸುವ ಯೋಜನೆ."
+    },
+    "documents_required": [
+      "Caste Certificate",
+      "Aadhaar",
+      "Business Plan",
+      "Bank Account",
+      "Income Certificate"
+    ],
+    "how_to_apply": {
+      "en": "Apply at District Social Welfare Office.",
+      "hi": "जिला सामाजिक कल्याण कार्यालय में आवेदन करें।",
+      "kn": "ಜಿಲ್ಲಾ ಸಾಮಾಜಿಕ ಕಲ್ಯಾಣ ಕಚೇರಿಯಲ್ಲಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": "https://sw.kar.nic.in",
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": [
+        "Caste Certificate",
+        "Aadhaar",
+        "Business Plan",
+        "Bank Account",
+        "Income Certificate"
+      ],
+      "kn": [
+        "ಜಾತಿ ಪ್ರಮಾಣಪತ್ರ",
+        "ಆಧಾರ್",
+        "ವ್ಯವಹಾರ ಯೋಜನೆ",
+        "ಬ್ಯಾಂಕ್ ಖಾತೆ",
+        "ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ"
+      ],
+      "hi": [
+        "जाति प्रमाण पत्र",
+        "आधार",
+        "व्यापार योजना",
+        "बैंक खाता",
+        "आय प्रमाण पत्र"
+      ]
+    }
+  },
+  {
+    "id": 58,
+    "name": {
+      "en": "Samrudhi Scheme",
+      "hi": "समृद्धि योजना",
+      "kn": "ಸಮೃದ್ಧಿ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        18,
+        50
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "caste": [
+        "SC",
+        "ST"
+      ],
+      "income_limit": 250000,
+      "occupation": [
+        "Unemployed",
+        "Entrepreneur"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Promotes entrepreneurship among SC/ST youth by linking them with banks and training.",
+      "hi": "एससी/एसटी युवाओं को बैंक और प्रशिक्षण से जोड़कर उद्यमिता को बढ़ावा देता है।",
+      "kn": "ಎಸ್‌ಸಿ/ಎಸ್‌ಟಿ ಯುವಕರಿಗೆ ಬ್ಯಾಂಕ್‌ಗಳು ಮತ್ತು ತರಬೇತಿಯೊಂದಿಗೆ ಸಂಪರ್ಕವನ್ನು ಒದಗಿಸಿ ಉದ್ಯಮಶೀಲತೆಯನ್ನು ಉತ್ತೇಜಿಸುತ್ತದೆ."
+    },
+    "documents_required": [
+      "Caste Certificate",
+      "Aadhaar",
+      "Business Plan",
+      "Training Certificate (if any)"
+    ],
+    "how_to_apply": {
+      "en": "Apply through skill centers or SC/ST Development Corporations.",
+      "hi": "कौशल केंद्रों या एससी/एसटी विकास निगमों के माध्यम से आवेदन करें।",
+      "kn": "ಕೌಶಲ್ಯ ಕೇಂದ್ರಗಳು ಅಥವಾ ಎಸ್‌ಸಿ/ಎಸ್‌ಟಿ ಅಭಿವೃದ್ಧಿ ನಿಗಮಗಳ ಮೂಲಕ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": "https://sw.kar.nic.in",
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": [
+        "Caste Certificate",
+        "Aadhaar",
+        "Business Plan",
+        "Training Certificate (if any)"
+      ],
+      "kn": [
+        "ಜಾತಿ ಪ್ರಮಾಣಪತ್ರ",
+        "ಆಧಾರ್",
+        "ವ್ಯವಹಾರ ಯೋಜನೆ",
+        "ತರಬೇತಿ ಪ್ರಮಾಣಪತ್ರ (ಇಲ್ಲಿ ಇದ್ದರೆ)"
+      ],
+      "hi": [
+        "जाति प्रमाण पत्र",
+        "आधार",
+        "व्यापार योजना",
+        "प्रशिक्षण प्रमाणपत्र (यदि कोई हो)"
+      ]
+    }
+  },
+  {
+    "id": 59,
+    "name": {
+      "en": "Badavara Bandhu Scheme",
+      "hi": "बदावर बंधु योजना",
+      "kn": "ಬಡವರ ಬಂಧು ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        21,
+        60
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "caste": [
+        "All"
+      ],
+      "income_limit": 150000,
+      "occupation": [
+        "Street Vendor",
+        "Daily Wage"
+      ],
+      "location": [
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Interest-free daily loans up to ₹10,000 for street vendors and small traders.",
+      "hi": "स्ट्रीट वेंडर्स और छोटे व्यापारियों को ₹10,000 तक का ब्याज मुक्त ऋण।",
+      "kn": "ಸ್ಟ್ರೀಟ್ ವೆಂಡರ್‌ಗಳು ಮತ್ತು ಸಣ್ಣ ವ್ಯಾಪಾರಿಗಳಿಗೆ ₹10,000 ರವರೆಗೆ ಬಡ್ಡಿರಹಿತ ಸಾಲ."
+    },
+    "documents_required": [
+      "Vendor ID/Registration",
+      "Aadhaar",
+      "Bank Passbook",
+      "Income Certificate"
+    ],
+    "how_to_apply": {
+      "en": "Apply at Taluk Office or via Seva Sindhu.",
+      "hi": "तालुक कार्यालय या सेवा सिंधु पोर्टल के माध्यम से आवेदन करें।",
+      "kn": "ತಾಲೂಕು ಕಚೇರಿ ಅಥವಾ ಸೇವಾ ಸಿಂಧು ಮೂಲಕ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": "https://sevasindhu.karnataka.gov.in",
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": [
+        "Vendor ID/Registration",
+        "Aadhaar",
+        "Bank Passbook",
+        "Income Certificate"
+      ],
+      "kn": [
+        "ವೆಂಡರ್ ಐಡಿ/ನೋಂದಣಿ",
+        "ಆಧಾರ್",
+        "ಬ್ಯಾಂಕ್ ಪಾಸ್ ಬುಕ್",
+        "ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ"
+      ],
+      "hi": [
+        "विक्रेता आईडी/पंजीकरण",
+        "आधार",
+        "बैंक पासबुक",
+        "आय प्रमाण पत्र"
+      ]
+    }
+  },
+  {
+    "id": 60,
+    "name": {
+      "en": "Janani Suraksha Yojana (JSY)",
+      "hi": "जननी सुरक्षा योजना",
+      "kn": "ಜನನಿ ಸುರಕ್ಷಾ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        18,
+        45
+      ],
+      "gender": [
+        "Female"
+      ],
+      "caste": [
+        "All"
+      ],
+      "income_limit": 250000,
+      "occupation": [
+        "Pregnant Woman"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Cash incentives to promote institutional delivery and reduce maternal mortality.",
+      "hi": "संस्थागत प्रसव को बढ़ावा देने और मातृ मृत्यु दर को कम करने के लिए नकद प्रोत्साहन।",
+      "kn": "ಸಂಸ್ಥಾತ್ಮಕ ಡೆಲಿವರಿಯನ್ನು ಉತ್ತೇಜಿಸಲು ಮತ್ತು ತಾಯಂದಿರ ಮರಣ ಪ್ರಮಾಣವನ್ನು ಕಡಿಮೆ ಮಾಡಲು ನಗದು ಪ್ರೋತ್ಸಾಹ."
+    },
+    "documents_required": [
+      "Pregnancy Certificate",
+      "Aadhaar Card",
+      "Delivery Proof",
+      "Bank Account"
+    ],
+    "how_to_apply": {
+      "en": "Register at PHC/CHC or through ASHA worker.",
+      "hi": "पीएचसी/सीएचसी या आशा कार्यकर्ता के माध्यम से पंजीकरण करें।",
+      "kn": "ಪಿಎಚ್ಸಿ/ಸಿಎಚ್ಸಿ ಅಥವಾ ಆಶಾ ಕಾರ್ಯಕರ್ತೆ ಮೂಲಕ ನೋಂದಾಯಿಸಿ."
+    },
+    "application_link": "https://karunadu.karnataka.gov.in/hfw",
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": [
+        "Pregnancy Certificate",
+        "Aadhaar Card",
+        "Delivery Proof",
+        "Bank Account"
+      ],
+      "kn": [
+        "ಗರ್ಭಧಾರಣಾ ಪ್ರಮಾಣಪತ್ರ",
+        "ಆಧಾರ್ ಕಾರ್ಡ್",
+        "ಡೆಲಿವರಿ ಸಾಬೀತು",
+        "ಬ್ಯಾಂಕ್ ಖಾತೆ"
+      ],
+      "hi": [
+        "गर्भावस्था प्रमाण पत्र",
+        "आधार कार्ड",
+        "प्रसव प्रमाण",
+        "बैंक खाता"
+      ]
+    }
+  },
+  {
+    "id": 61,
+    "name": {
+      "en": "Rajiv Gandhi Rural Housing Corporation Scheme",
+      "hi": "राजीव गांधी ग्रामीण आवास निगम योजना",
+      "kn": "ರಾಜೀವ್ ಗಾಂಧಿ ಗ್ರಾಮೀಣ ಗೃಹ ನಿಗಮ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        18,
+        99
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "Minority",
+        "General"
+      ],
+      "income_limit": 320000,
+      "occupation": [
+        "Any"
+      ],
+      "location": [
+        "Rural"
+      ]
+    },
+    "description": {
+      "en": "Provides subsidy for construction of houses to BPL families in rural areas.",
+      "hi": "ग्रामीण क्षेत्रों में बीपीएल परिवारों को मकान निर्माण के लिए सब्सिडी।",
+      "kn": "ಗ್ರಾಮೀಣ ಪ್ರದೇಶಗಳ ಬಿಪಿಎಲ್ ಕುಟುಂಬಗಳಿಗೆ ಮನೆ ನಿರ್ಮಾಣಕ್ಕೆ ಸಹಾಯಧನ."
+    },
+    "documents_required": [
+      "BPL Card",
+      "Aadhaar Card",
+      "Land Ownership Documents",
+      "Bank Passbook"
+    ],
+    "how_to_apply": {
+      "en": "Apply through Gram Panchayat or Housing Corporation portal.",
+      "hi": "ग्राम पंचायत या आवास निगम पोर्टल के माध्यम से आवेदन करें।",
+      "kn": "ಗ್ರಾಮ ಪಂಚಾಯತ್ ಅಥವಾ ಗೃಹ ನಿಗಮ ಪೋರ್ಟಲ್ ಮೂಲಕ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+    },
+    "application_link": "https://ashraya.karnataka.gov.in/",
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": [
+        "BPL Card",
+        "Aadhaar Card",
+        "Land Ownership Documents",
+        "Bank Passbook"
+      ],
+      "kn": [
+        "ಬಿಪಿಎಲ್ ಕಾರ್ಡ್",
+        "ಆಧಾರ್ ಕಾರ್ಡ್",
+        "ಭೂಮಿಯ ಮಾಲೀಕತ್ವದ ದಾಖಲೆಗಳು",
+        "ಬ್ಯಾಂಕ್ ಪಾಸ್ ಬುಕ್"
+      ],
+      "hi": [
+        "बीपीएल कार्ड",
+        "आधार कार्ड",
+        "भूमि स्वामित्व दस्तावेज़",
+        "बैंक पासबुक"
+      ]
+    }
+  },
+  {
+    "id": 62,
+    "name": {
+      "en": "Punyakoti Dattu Yojana",
+      "hi": "पुण्यकोटि दत्त योजना",
+      "kn": "ಪುನ್ಯಕೋಟಿ ದತ್ತು ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        18,
+        99
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "caste": [
+        "All"
+      ],
+      "income_limit": null,
+      "occupation": [
+        "Farmer",
+        "Individual",
+        "Organization"
+      ],
+      "location": [
+        "Rural",
+        "Urban"
+      ]
+    },
+    "description": {
+      "en": "Encourages individuals and organizations to adopt cows in government goshalas.",
+      "hi": "सरकारी गोशालाओं में गायों को गोद लेने के लिए व्यक्तियों और संगठनों को प्रोत्साहित करता है।",
+      "kn": "ಸರ್ಕಾರಿ ಗೋಶಾಲೆಗಳಲ್ಲಿ ಹಸುಗಳನ್ನು ದತ್ತು ತೆಗೆದುಕೊಳ್ಳಲು ಪ್ರೋತ್ಸಾಹಿಸುವ ಯೋಜನೆ."
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Contact Details",
+      "Bank Details"
+    ],
+    "how_to_apply": {
+      "en": "Register and adopt cows via the dedicated portal.",
+      "hi": "समर्पित पोर्टल पर पंजीकरण करके गायों को गोद लें।",
+      "kn": "ನಿಗದಿತ ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ನೋಂದಣಿ ಮಾಡಿ ಹಸುಗಳನ್ನು ದತ್ತು ತೆಗೆದುಕೊಳ್ಳಿ."
+    },
+    "application_link": "https://punyakoti.karahvs.in",
+    "step2_question": {
+      "question": {
+        "en": "Are you willing to sponsor a cow monthly?",
+        "hi": "क्या आप हर महीने एक गाय को प्रायोजित करने के इच्छुक हैं?",
+        "kn": "ನೀವು ತಿಂಗಳಿನಲ್ಲಿ ಒಂದು ಹಸುಯನ್ನು ಪ್ರಾಯೋಜಿಸಲು ಸಿದ್ಧರಿದ್ದೀರಾ?"
+      },
+      "expected_answer": "Yes"
+    },
+    "documents_required_translated": {
+      "en": [
+        "Aadhaar Card",
+        "Contact Details",
+        "Bank Details"
+      ],
+      "kn": [
+        "ಆಧಾರ್ ಕಾರ್ಡ್",
+        "ಸಂಪರ್ಕ ವಿವರಗಳು",
+        "ಬ್ಯಾಂಕ್ ವಿವರಗಳು"
+      ],
+      "hi": [
+        "आधार कार्ड",
+        "संपर्क विवरण",
+        "बैंक विवरण"
+      ]
+    }
+  },
+  {
+    "id": 63,
+    "name": {
+      "en": "Amrutha Grama Yojana",
+      "hi": "अमृत ग्राम योजना",
+      "kn": "ಅಮೃತ ಗ್ರಾಮ ಯೋಜನೆ"
+    },
+    "eligibility": {
+      "age_range": [
+        0,
+        99
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "caste": [
+        "All"
+      ],
+      "income_limit": null,
+      "occupation": [
+        "Village Resident"
+      ],
+      "location": [
+        "Rural"
+      ]
+    },
+    "description": {
+      "en": "Holistic rural development program to upgrade infrastructure and amenities in selected villages.",
+      "hi": "चयनित गांवों में अवसंरचना और सुविधाओं को उन्नत करने के लिए समग्र ग्रामीण विकास कार्यक्रम।",
+      "kn": "ಆಯ್ದ ಗ್ರಾಮಗಳಲ್ಲಿ ಮೂಲಸೌಕರ್ಯ ಮತ್ತು ಸೌಲಭ್ಯಗಳನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸಲು ಸಮಗ್ರ ಗ್ರಾಮೀಣ ಅಭಿವೃದ್ಧಿ ಯೋಜನೆ."
+    },
+    "documents_required": [
+      "Village Certificate",
+      "Aadhaar",
+      "Household Survey Form"
+    ],
+    "how_to_apply": {
+      "en": "Implementation through Panchayat Raj institutions; no direct application.",
+      "hi": "पंचायती राज संस्थाओं के माध्यम से कार्यान्वयन; कोई सीधी आवेदन प्रक्रिया नहीं।",
+      "kn": "ಪಂಚಾಯತ್ ರಾಜ್ ಸಂಸ್ಥೆಗಳ ಮೂಲಕ ಕಾರ್ಯಗತಗೊಳಿಸಲಾಗುತ್ತದೆ; ನೇರ ಅರ್ಜಿ ಇಲ್ಲ."
+    },
+    "application_link": null,
+    "step2_question": null,
+    "documents_required_translated": {
+      "en": [
+        "Village Certificate",
+        "Aadhaar",
+        "Household Survey Form"
+      ],
+      "kn": [
+        "ಗ್ರಾಮ ಪ್ರಮಾಣಪತ್ರ",
+        "ಆಧಾರ್",
+        "ಕುಟುಂಬ ಸಮೀಕ್ಷಾ ಫಾರ್ಮ್"
+      ],
+      "hi": [
+        "ग्राम प्रमाण पत्र",
+        "आधार",
+        "परिवार सर्वेक्षण प्रपत्र"
+      ]
+  }
+}
+]

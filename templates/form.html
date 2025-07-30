@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="{{ language }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GramaSaarthi - {{ translations['profile_heading'] }}</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-image: linear-gradient(to bottom right, #e0f7fa, #e8f5e9); /* Consistent gradient */
+      min-height: 100vh;
+      font-family: 'Arial', sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 2rem 0; /* Add vertical padding */
+    }
+    .form-container {
+      max-width: 800px;
+      width: 95%; /* Make it slightly responsive */
+      margin: 2rem auto;
+      padding: 2.5rem; /* More padding */
+      background: white;
+      border-radius: 1rem; /* More rounded corners */
+      box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1); /* Stronger, softer shadow */
+      border: 1px solid #e0e0e0; /* Subtle border */
+    }
+    h2 {
+      font-size: 2.25rem; /* Larger heading */
+      font-weight: 700;
+      color: #1a5319; /* Darker green */
+      margin-bottom: 2rem; /* More space below heading */
+      text-align: center;
+    }
+    .form-group {
+      margin-bottom: 1.5rem; /* Consistent spacing */
+    }
+    label {
+      display: block;
+      font-weight: 600; /* Bolder labels */
+      color: #4a5568; /* Darker gray for labels */
+      margin-bottom: 0.5rem;
+      font-size: 1.05rem; /* Slightly larger font */
+    }
+    input[type="text"],
+    input[type="number"],
+    select {
+      width: 100%;
+      padding: 0.75rem 1rem; /* More padding */
+      border: 1px solid #cbd5e0; /* Lighter border */
+      border-radius: 0.5rem; /* More rounded */
+      font-size: 1rem;
+      color: #2d3748; /* Darker text */
+      transition: border-color 0.2s ease, box-shadow 0.2s ease;
+    }
+    input[type="text"]:focus,
+    input[type="number"]:focus,
+    select:focus {
+      border-color: #38a169; /* Green focus border */
+      box-shadow: 0 0 0 3px rgba(56, 161, 105, 0.2); /* Green glow on focus */
+      outline: none;
+    }
+    input[type="radio"] {
+      margin-right: 0.5rem;
+      transform: scale(1.2); /* Slightly larger radio buttons */
+    }
+    .radio-group label {
+      display: inline-flex; /* Align radio buttons and text */
+      align-items: center;
+      margin-right: 1.5rem; /* Space between options */
+      font-weight: 500; /* Normal weight for radio labels */
+      color: #4a5568;
+    }
+    .submit-btn {
+      width: 100%;
+      padding: 1rem 1.5rem; /* More padding */
+      background-color: #2b7a3d; /* Darker green */
+      color: white;
+      border-radius: 0.75rem; /* More rounded */
+      font-weight: 700; /* Bolder text */
+      font-size: 1.15rem; /* Larger font */
+      transition: background-color 0.3s ease, transform 0.2s ease;
+      cursor: pointer;
+      border: none;
+    }
+    .submit-btn:hover {
+      background-color: #216030; /* Even darker green on hover */
+      transform: translateY(-2px); /* Slight lift effect */
+    }
+    .error-message {
+      background-color: #fee2e2; /* Light red background */
+      color: #dc2626; /* Dark red text */
+      padding: 1rem;
+      border-radius: 0.5rem;
+      margin-bottom: 1.5rem;
+      border: 1px solid #ef4444;
+      font-weight: 500;
+    }
+  </style>
+</head>
+<body>
+  <div class="form-container">
+    <h2>{{ translations['profile_heading'] }}</h2>
+
+    {% if error_message %}
+      <div class="error-message">
+        {{ error_message }}
+      </div>
+    {% endif %}
+
+    <form method="POST" action="/results">
+      <input type="hidden" name="language" value="{{ language }}">
+
+      <div class="form-group">
+        <label for="age">{{ translations['age'] }}</label>
+        <input type="number" name="age" id="age" required min="0" max="150">
+      </div>
+
+      <div class="form-group">
+        <label class="block font-semibold text-gray-700">{{ translations['gender'] }}</label>
+        <div class="flex gap-4 mt-2 radio-group">
+          <label><input type="radio" name="gender" value="Male" required> 👨 {{ translations['male'] }}</label>
+          <label><input type="radio" name="gender" value="Female" required> 👩 {{ translations['female'] }}</label>
+          <label><input type="radio" name="gender" value="Other" required> ⚧ {{ translations['other'] }}</label>
+        </div>
+      </div>
+
+      <div class="form-group">
+      <label>{{ translations['caste'] }}</label>
+      <select name="caste" required>
+        <option value="">{{ translations['select'] }}</option>
+        <option value="sc">{{ translations['sc'] }}</option>
+        <option value="st">{{ translations['st'] }}</option>
+        <option value="obc">{{ translations['obc'] }}</option>
+        <option value="general">{{ translations['general'] }}</option>
+        <option value="minority">{{ translations['minority'] }}</option>
+        <option value="transgender">{{ translations['transgender'] }}</option>
+      </select>
+    </div>
+
+      <div class="form-group">
+  <label for="district">{{ translations['district_taluk'] }}</label>
+  <select name="district" id="district" required>
+    <option value="">{{ translations['select'] }}</option>
+    <option value="arsikere">{{ translations['arsikere'] }}</option>
+    <option value="bagalkot">{{ translations['bagalkot'] }}</option>
+    <option value="ballari">{{ translations['ballari'] }}</option>
+    <option value="belagavi">{{ translations['belagavi'] }}</option>
+    <option value="bengaluru">{{ translations['bengaluru'] }}</option>
+    <option value="bhadravati">{{ translations['bhadravati'] }}</option>
+    <option value="bidar">{{ translations['bidar'] }}</option>
+    <option value="chikmagalur">{{ translations['chikmagalur'] }}</option>
+    <option value="chitradurga">{{ translations['chitradurga'] }}</option>
+    <option value="davanagere">{{ translations['davanagere'] }}</option>
+    <option value="gadag_betageri">{{ translations['gadag_betageri'] }}</option>
+    <option value="gangavati">{{ translations['gangavati'] }}</option>
+    <option value="hassan">{{ translations['hassan'] }}</option>
+    <option value="hospet">{{ translations['hospet'] }}</option>
+    <option value="hubli_dharwad">{{ translations['hubli_dharwad'] }}</option>
+    <option value="kalaburagi">{{ translations['kalaburagi'] }}</option>
+    <option value="kolar">{{ translations['kolar'] }}</option>
+    <option value="mandya">{{ translations['mandya'] }}</option>
+    <option value="mangaluru">{{ translations['mangaluru'] }}</option>
+    <option value="mysore">{{ translations['mysore'] }}</option>
+    <option value="raichur">{{ translations['raichur'] }}</option>
+    <option value="ranebennuru">{{ translations['ranebennuru'] }}</option>
+    <option value="robertsonpet">{{ translations['robertsonpet'] }}</option>
+    <option value="shimoga">{{ translations['shimoga'] }}</option>
+    <option value="tumkur">{{ translations['tumkur'] }}</option>
+    <option value="udupi">{{ translations['udupi'] }}</option>
+    <option value="vijayapura">{{ translations['vijayapura'] }}</option>
+  </select>
+</div>
+      <div class="form-group">
+        <label for="income">{{ translations['annual_income'] }}</label>
+        <select name="income" id="income" required>
+          <option value="">{{ translations['select_income_range'] }}</option>
+          <option value="150000">{{ translations['below'] }} ₹1,50,000</option>
+          <option value="200000">₹1,50,000 – ₹2,00,000</option>
+          <option value="300000">₹2,00,000 – ₹3,00,000</option>
+          <option value="500000">₹3,00,000 – ₹5,00,000</option>
+          <option value="800000">₹5,00,000 – ₹8,00,000</option>
+          <option value="1000000">{{ translations['above'] }} ₹8,00,000</option>
+        </select>
+      </div>
+
+      <div class="form-group">
+        <label for="occupation">{{ translations['occupation'] }}</label>
+        <select name="occupation" id="occupation" required>
+          <option value="">{{ translations['select'] }}</option>
+          <option value="Aspiring Business Owner">{{ translations['aspiring_business_owner'] }}</option>
+          <option value="Artisan">{{ translations['artisan'] }}</option>
+          <option value="Construction Worker">{{ translations['construction_worker'] }}</option>
+          <option value="Daily Wage">{{ translations['daily_wage'] }}</option>
+          <option value="Diploma Holder">{{ translations['diploma_holder'] }}</option>
+          <option value="Entrepreneur">{{ translations['entrepreneur'] }}</option>
+          <option value="Farmer">{{ translations['farmer'] }}</option>
+          <option value="Graduate">{{ translations['graduate'] }}</option>
+          <option value="Home Cook">{{ translations['home_cook'] }}</option>
+          <option value="Housewife">{{ translations['housewife'] }}</option>
+          <option value="Laborer">{{ translations['laborer'] }}</option>
+          <option value="Organization">{{ translations['organization'] }}</option>
+          <option value="Pregnant Woman">{{ translations['pregnant_woman'] }}</option>
+          <option value="Self-Employed">{{ translations['self_employed'] }}</option>
+          <option value="Street Vendor">{{ translations['street_vendor'] }}</option>
+          <option value="Student">{{ translations['student'] }}</option>
+          <option value="Unemployed">{{ translations['unemployed'] }}</option>
+          <option value="Unemployed Graduate">{{ translations['unemployed_graduate'] }}</option>
+          <option value="Village Resident">{{ translations['village_resident'] }}</option>
+        </select>
+      </div>
+
+      <div class="form-group">
+        <label class="block font-semibold text-gray-700">{{ translations['hk_quota'] }}</label>
+        <div class="flex gap-4 mt-2 radio-group">
+          <label><input type="radio" name="hk_quota" value="Yes" required> {{ translations['yes'] }}</label>
+          <label><input type="radio" name="hk_quota" value="No" required> {{ translations['no'] }}</label>
+        </div>
+      </div>
+
+      <div class="form-group">
+      <label>{{ translations['location'] }}</label>
+      <select name="location" required>
+        <option value="">{{ translations['select'] }}</option>
+        <option value="urban">{{ translations['urban'] }}</option>
+        <option value="rural">{{ translations['rural'] }}</option>
+        <option value="slums">{{ translations['slums'] }}</option>
+      </select>
+    </div>
+
+
+      <button type="submit" class="submit-btn">{{ translations['submit'] }}</button>
+    </form>
+  </div>
+</body>
+</html>
+

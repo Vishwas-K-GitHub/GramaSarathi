@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="{{ language }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GramaSaarthi - Eligible Schemes</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f1f8e9; margin: 0; padding: 20px; }
+    h2 { text-align: center; color: #1a5319; margin-bottom: 30px; }
+    .scheme-card {
+      background: #fff;
+      margin-bottom: 20px;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+    }
+    .scheme-card h3 { color: #2b7a3d; margin-bottom: 10px; }
+    .scheme-card p { margin: 8px 0; line-height: 1.5; }
+    .scheme-card a { color: #3182ce; text-decoration: none; }
+    .scheme-card a:hover { text-decoration: underline; }
+    .no-results {
+      text-align: center;
+      font-size: 1.3rem;
+      color: #ef4444;
+      margin-top: 50px;
+    }
+  </style>
+</head>
+<body>
+
+<h2>{{ translations['result_heading'] }}</h2>
+
+{% if schemes %}
+  {% for scheme in schemes %}
+    <div class="scheme-card">
+      <h3>{{ scheme['name'][language] }}</h3>
+      <p><strong>{{ translations['description'] }}:</strong> {{ scheme['description'][language] }}</p>
+      <p><strong>{{ translations['documents_required'] }}:</strong> {{ scheme['documents_required_translated'][language] | join(', ') }}</p>
+      <p><strong>{{ translations['how_to_apply'] }}:</strong> {{ scheme['how_to_apply'][language] }}</p>
+      {% if scheme['application_link'] %}
+        <p><strong>{{ translations['application_link'] }}:</strong>
+          <a href="{{ scheme['application_link'] }}" target="_blank">{{ scheme['application_link'] }}</a>
+        </p>
+      {% endif %}
+    </div>
+  {% endfor %}
+{% else %}
+  <p class="no-results">{{ translations['no_results'] }}</p>
+{% endif %}
+
+</body>
+</html>

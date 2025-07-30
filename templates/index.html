@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GramaSaarthi</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<!-- Header -->
+<header class="header">
+  <img src="{{ url_for('static', filename='logo2.png') }}" alt="Logo" class="logo">
+  <div class="title" id="rotatingTitle">GramaSaarthi</div>
+</header>
+
+<!-- Scrollable Content -->
+<div class="scroll-area">
+  <div class="main">
+    <!-- Left Images -->
+    <div class="side-column">
+      <img src="{{ url_for('static', filename='7.png') }}" alt="Pic 1" class="side-image">
+      <img src="{{ url_for('static', filename='1.jpeg') }}" alt="Pic 2" class="side-image">
+      <img src="{{ url_for('static', filename='2.webp') }}" alt="Pic 3" class="side-image">
+    </div>
+
+    <!-- Center -->
+    <div class="content">
+      <h2 class="lang-title">Select Your Language</h2>
+      <div class="language">
+        <a href="/form?lang=en" class="lang-btn">🇬🇧 English</a>
+        <a href="/form?lang=kn" class="lang-btn">🇧🇯ಕನ್ನಡ</a>
+        <a href="/form?lang=hi" class="lang-btn">🇮🇳 हिन्दी</a>
+      </div>
+
+      <!-- Descriptions -->
+      <div class="description">
+        <p><strong>GramaSaarthi</strong> connects every farmer and family to their rightful government benefits.</p>
+        <p>Discover new opportunities and build a better tomorrow for your village.</p>
+      </div>
+
+      <div class="description">
+        <p><strong>ಗ್ರಾಮಸಾರಥಿ</strong> ನಿಮ್ಮ ಹಕ್ಕಿನ ಸರ್ಕಾರಿ ಯೋಜನೆಗಳನ್ನು ನಿಮ್ಮ ಹತ್ತಿರ ತರುತ್ತದೆ.</p>
+        <p>ಕೃಷಿಕರು, ಮಹಿಳೆಯರು, ವಿದ್ಯಾರ್ಥಿಗಳು - ಎಲ್ಲರಿಗೂ ಉತ್ತಮ ಭವಿಷ್ಯ ನಿರ್ಮಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.</p>
+      </div>
+
+      <div class="description">
+        <p><strong>ग्रामसारथी</strong> आपके हक़ के सरकारी योजनाओं को आपके गांव तक पहुंचाता है।</p>
+        <p>किसान, महिलाएं, छात्र - सभी के लिए उज्जवल भविष्य का मार्गदर्शन करता है।</p>
+      </div>
+    </div>
+
+    <!-- Right Images -->
+    <div class="side-column">
+      <img src="{{ url_for('static', filename='8.jpeg') }}" alt="Pic 4" class="side-image">
+      <img src="{{ url_for('static', filename='9.jpg') }}" alt="Pic 5" class="side-image">
+      <img src="{{ url_for('static', filename='11.webp') }}" alt="Pic 6" class="side-image">
+    </div>
+  </div>
+</div>
+
+<!-- Footer -->
+<footer class="footer">
+  <div class="footer-images">
+    <img src="{{ url_for('static', filename='12.jpeg') }}" alt="Footer Pic 1" class="footer-image">
+    <img src="{{ url_for('static', filename='13.jpeg') }}" alt="Footer Pic 2" class="footer-image">
+  </div>
+  &copy; 2025 GramaSaarthi. All rights reserved.
+</footer>
+<script>
+    const titles = ["GramaSaarthi", "ಗ್ರಾಮಸಾರಥಿ", "ग्रामसारथी"];
+    const titleElement = document.getElementById("rotatingTitle");
+    let index = 0;
+
+    setInterval(() => {
+      index = (index + 1) % titles.length;
+      titleElement.classList.remove("fade-in");
+      void titleElement.offsetWidth; // reflow
+      titleElement.textContent = titles[index];
+      titleElement.classList.add("fade-in");
+    }, 3000);
+  </script>
+</body>
+</html>
