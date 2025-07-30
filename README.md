@@ -1,2 +1,2 @@
 # GramaSarathi
-A multilingual web portal built with HTML, CSS, Python (Flask), and JSON to help users discover government schemes based on eligibility-supports Kannada, Hindi, and English, with scalable design for easy updates and expansion.
+A multilingual web portal built with HTML, CSS, Python (Flask), and JSON to help users discover government schemes based on eligibility. - Supports Kannada, Hindi, and English, with a scalable design for easy updates and expansion. The platform is especially aimed at assisting rural communities and individuals with limited formal education by providing accessible and user-friendly scheme information in regional languages.
